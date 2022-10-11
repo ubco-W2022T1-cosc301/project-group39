@@ -24,9 +24,9 @@ Our dataset is a dataset that includes information regarding incidents of mass s
 
 **Please remember to update this section**
 
-- Person 1: one sentence about you!
-- Person 2: one sentence about you!
-- Person 3: one sentence about you!
+- Nolan Nishikawa: I am in my second year of computer science studies at UBCO. I enjoy playing video games and hanging out with friends!
+- Rhys Smith: I am also in my second year of computer science at UBCO, I enjoy golfing in the summer and skiing in the winter!
+- Luke Chapman: I am a fourth year computer science student at UBCO that enjoys learning new fun and interesting things!
 
 ## Images
 
@@ -34,13 +34,10 @@ Our dataset is a dataset that includes information regarding incidents of mass s
 
 {You can use this area for any images you want to include}
 
-<img src ="images/test.png" width="100px">
-
 ## References
 
 **Please remember to update this section**
 
+[Data Source - US Gun Violence Dataset 2021-2014](https://data.world/rohk/us-gun-violence-dataset-2021-2014)
+
 {Add your credits, acknowledgements, references, or citations **including a link to the data source** here}
-
-
-
