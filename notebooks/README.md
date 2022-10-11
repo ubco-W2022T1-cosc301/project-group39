@@ -5,3 +5,5 @@
 - `analysis3.ipynb` : Teammate 3 should have Jupyter Notebook work stored here. Remember to change the header in this file to your names or an alias. Don't change the name of this file.
 - `/ungraded/` : Anything you don't want to be marked or looked at can be placed in this folder.   
 - You may add additional subdirectories within the current structure, but try to avoid creating any directories in the project root. If you have questions about this, you can ask the project TA.
+
+The notebook folder is where each members jupyter notebook work will go once its completed or if we are still working on it. Lukes file is analysis1.ipynb, Nolans file is analysis2.ipynb and Rhys' file is analysis3.ipynb.
