@@ -1,4 +1,4 @@
 # Milestone 3, Task 4
 ## This is our formal analysis to answer our questions proposed in milestone 2.
 ### Rhys
-    
+The question I would most like to answer through an analysis of our data is what is required for it to be considered a mass shooting. Without a proper definition it is difficult to tell, but it is generally accepted that a mass shooting has a minimum of three or four victims. When looking through our data of total injured or killed in each incident, we can tell that on average 4.97 people were either injured or killed in each shooting that occured. This means that a majority of the shootings that occured in the U.S over the past 7 years can be considered mass shootings based on our accepted definition. As as side note as well, this was the average even after I filtered out extreme incidents of more than 15 killed or 20 injured. 
