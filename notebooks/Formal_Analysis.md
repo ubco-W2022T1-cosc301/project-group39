@@ -8,14 +8,14 @@ The question I would most like to answer through an analysis of our data is what
 #####  <br/>
 ### <b> Has the number of shootings been increasing?</b>
 After analyzing our data by month and year, I can confidently say the frequency of shootings has steadily risen over the past seven years. 2020 alone had over 600 seperate shooting incidents which is more than double the amount of shootings that occured in 2014. 
-### <b> The graph below shows the number of shootings from 2014-2020</b> 
+### <b> The graph below shows the number of shootings per year from 2014-2020</b> 
 ![here](/images/per_year.png)
 ####
+### <b>Which month of the year is the worst for shootings</b>
+After analyzing our data split into months, we can see that it is mainly the summer months where shootings occur most often. June appears to be the worst month for number of shootings with July and August as a close second and third. This correlates with what was initially expected because the more people are outside for greater periods of time, the more we are interacting others, the greater likelihood a conflict may break out where people can be shot.
+### <b> The graph below shows the number of shootings per month between 2014 and 2020</b>
+![here](/images/per_month.png)
 #### 
 ### <b> How often do shootings occur in the U.S.</b>
-Over our 7 years of data analyzed an average of 1.05 shootings occured each day. This quite a concerning metric as other similarly developed countries such as Canada, Australia or the U.K.have no where near the amount or frequency of shootings as the U.S does.
-### <b> Gun related Killings as a percent of homecides </b>
-![](/images/Gun_of_Homecides.png)
-[Link to the Data](https://www.bbc.com/news/world-us-canada-41488081)
-</br>
-As you can in the above table, gun violence has a disproportionately higher percent only in the U.S. 
+Over our 7 years of data analyzed an average of 1.05 shootings occured each day. This quite a concerning metric as other similarly developed countries such as Canada, Australia or the U.K.have no where near the amount or frequency of shootings as the U.S. does. It is important to note that 77% of homecides that occur in the U.S. are gun related deaths, this compared to Canada at 37% and Australia at only 13%. <i>BBC 2020</i>
+
