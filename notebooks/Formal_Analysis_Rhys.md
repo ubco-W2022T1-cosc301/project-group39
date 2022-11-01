@@ -1,5 +1,5 @@
 # Milestone 3, Task 4
-## This is our formal analysis to answer our questions proposed in milestone 2.
+## This is my formal analysis to answer the questions I proposed in milestone 2.
 ### <b>Rhys</b>
 ###### <br/>
 ### <b>What is considered a mass shooting?</b>
