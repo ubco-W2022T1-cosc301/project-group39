@@ -17,5 +17,5 @@ After analyzing our data split into months, we can see that it is mainly the sum
 ![here](/images/per_month.png)
 #### 
 ### <b> How often do shootings occur in the U.S.</b>
-Over our 7 years of data analyzed an average of 1.05 shootings occured each day. This quite a concerning metric as other similarly developed countries such as Canada, Australia or the U.K.have no where near the amount or frequency of shootings as the U.S. does. It is important to note that 77% of homecides that occur in the U.S. are gun related deaths, this compared to Canada at 37% and Australia at only 13%. <i>BBC 2020</i>
+Over our 7 years of data analyzed an average of 1.05 shootings occured each day. This quite a concerning metric as other similarly developed countries such as Canada, Australia or the U.K.have no where near the amount or frequency of shootings as the U.S. does. It is important to note that 77% of homecides that occur in the U.S. are gun related deaths, this compared to Canada at 37% and Australia at only 13%. <i>BBC 2020</i> [Link here](https://www.bbc.com/news/world-us-canada-41488081).
 
