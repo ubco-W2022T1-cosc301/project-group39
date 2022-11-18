@@ -1,0 +1,2690 @@
+,Year,Month,State,City/County,Killed,Injured,Total
+232,2020,December,Indiana,Indianapolis,1,3,4
+233,2020,December,Oregon,Happy Valley,0,4,4
+234,2020,December,Illinois,Rockford,3,3,6
+235,2020,December,Florida,Tampa,2,2,4
+236,2020,December,Massachusetts,Lynn,1,5,6
+237,2020,December,Florida,Miami,1,3,4
+238,2020,December,Florida,Boynton Beach,1,4,5
+239,2020,December,Arkansas,Atkins,5,0,5
+240,2020,December,Florida,Lakeland,1,4,5
+241,2020,December,Mississippi,Meridian,5,0,5
+242,2020,December,Connecticut,Bridgeport,2,2,4
+243,2020,December,Illinois,Chicago,0,6,6
+244,2020,December,West Virginia,Elkview,4,0,4
+245,2020,December,California,San Bernardino,1,3,4
+246,2020,December,New York,Copiague,2,2,4
+247,2020,December,New York,Brooklyn,0,4,4
+248,2020,December,Maryland,Hyattsville (Landover),2,2,4
+249,2020,December,Georgia,Tifton,0,4,4
+250,2020,December,Mississippi,Jackson,0,5,5
+251,2020,December,West Virginia,Williamsburg,6,0,6
+252,2020,December,Louisiana,Lacombe,2,3,5
+253,2020,December,Texas,Venus,0,6,6
+254,2020,December,California,Hayward,1,3,4
+255,2020,December,North Carolina,Autryville,0,6,6
+256,2020,December,Illinois,Chicago,0,4,4
+257,2020,December,Pennsylvania,Morrisville,1,3,4
+258,2020,November,Alaska,Palmer,4,0,4
+259,2020,November,Mississippi,Grenada,0,11,11
+260,2020,November,Tennessee,Memphis,2,3,5
+261,2020,November,South Carolina,Aiken,1,10,11
+262,2020,November,South Carolina,Conway,0,5,5
+263,2020,November,Louisiana,New Orleans,0,4,4
+264,2020,November,Georgia,Macon,1,5,6
+265,2020,November,Ohio,Toledo,0,6,6
+266,2020,November,Nevada,Henderson,1,5,6
+267,2020,November,New Jersey,Trenton,0,4,4
+268,2020,November,New York,Brooklyn,1,6,7
+269,2020,November,Illinois,Chicago,1,3,4
+270,2020,November,Louisiana,New Orleans,1,3,4
+271,2020,November,Illinois,Chicago,0,6,6
+272,2020,November,Arizona,Phoenix,1,4,5
+273,2020,November,Nebraska,Bellevue,2,2,4
+274,2020,November,Wisconsin,Milwaukee (Wauwatosa),0,8,8
+275,2020,November,Florida,Haines City,1,3,4
+276,2020,November,Texas,Houston,3,2,5
+277,2020,November,South Carolina,Florence,0,4,4
+278,2020,November,Tennessee,Jackson,0,4,4
+279,2020,November,Florida,Miami,0,4,4
+280,2020,November,Illinois,Chicago,0,4,4
+281,2020,November,Illinois,Chicago,0,4,4
+282,2020,November,Louisiana,Shreveport,0,5,5
+283,2020,November,Georgia,Jonesboro,2,2,4
+284,2020,November,South Carolina,Sumter,3,1,4
+285,2020,November,Missouri,Fulton,0,4,4
+286,2020,November,Ohio,Cincinnati,0,4,4
+287,2020,November,California,Riverside,2,3,5
+288,2020,November,Florida,Tampa,2,4,6
+289,2020,November,North Carolina,Gastonia,0,6,6
+290,2020,November,Florida,Tampa,1,7,8
+291,2020,November,Texas,Fort Worth,0,4,4
+292,2020,November,Virginia,Virginia Beach,0,4,4
+293,2020,November,Tennessee,Nashville,0,8,8
+294,2020,November,Kansas,Ogden,0,4,4
+295,2020,November,South Carolina,Rock Hill,1,3,4
+296,2020,November,Louisiana,New Orleans,2,2,4
+297,2020,November,Ohio,Toledo,3,2,5
+298,2020,November,Missouri,Jefferson City,0,4,4
+299,2020,November,Nevada,Henderson,4,1,5
+300,2020,November,Ohio,Mansfield,0,5,5
+301,2020,November,South Carolina,Hollywood,0,6,6
+302,2020,November,Indiana,Evansville,0,4,4
+303,2020,November,Oklahoma,Oklahoma City,1,3,4
+304,2020,November,North Carolina,Winston Salem (Winston-salem),1,3,4
+305,2020,November,Arizona,Tucson,2,2,4
+306,2020,November,New Jersey,Atlantic City,1,4,5
+307,2020,October,California,Sacramento,0,4,4
+308,2020,October,Washington,Sumner,0,5,5
+309,2020,October,California,Anaheim,0,4,4
+310,2020,October,Nevada,North Las Vegas,0,4,4
+311,2020,October,Maryland,College Park,0,7,7
+312,2020,October,Maryland,Waldorf,1,3,4
+313,2020,October,Illinois,Chicago,1,3,4
+314,2020,October,Florida,Winter Garden,0,4,4
+315,2020,October,Virginia,Roanoke,0,4,4
+316,2020,October,New Jersey,Newark,1,3,4
+317,2020,October,Texas,Fort Worth,2,3,5
+318,2020,October,Texas,San Antonio,1,3,4
+319,2020,October,North Carolina,Raleigh,1,3,4
+320,2020,October,Mississippi,Greenwood,2,8,10
+321,2020,October,Florida,Miami,1,3,4
+322,2020,October,Louisiana,Rayne,0,5,5
+323,2020,October,Massachusetts,Boston,0,4,4
+324,2020,October,Maryland,Baltimore,0,4,4
+325,2020,October,New York,Brooklyn,1,5,6
+326,2020,October,Mississippi,Canton,2,2,4
+327,2020,October,Texas,Houston,3,1,4
+328,2020,October,Ohio,Mansfield,0,5,5
+329,2020,October,Louisiana,New Orleans,1,3,4
+330,2020,October,Maryland,Annapolis,1,3,4
+331,2020,October,Illinois,Chicago,1,4,5
+332,2020,October,Tennessee,Nashville,0,4,4
+333,2020,October,New York,Lockport,1,5,6
+334,2020,October,South Carolina,Rock Hill,0,5,5
+335,2020,October,California,San Jose,2,4,6
+336,2020,October,Florida,Orlando,3,1,4
+337,2020,October,Arizona,Mesa,1,6,7
+338,2020,October,California,San Francisco,1,3,4
+339,2020,October,Louisiana,Lafayette,2,2,4
+340,2020,October,Maryland,Baltimore,0,7,7
+341,2020,October,Pennsylvania,Philadelphia,0,4,4
+342,2020,October,South Carolina,Myrtle Beach,2,3,5
+343,2020,October,Georgia,Atlanta,0,4,4
+344,2020,October,Illinois,Chicago,1,3,4
+345,2020,October,South Carolina,Kingstree,0,8,8
+346,2020,October,Missouri,Saint Louis (Jennings),2,2,4
+347,2020,October,Pennsylvania,Philadelphia,1,6,7
+348,2020,October,Alaska,Anchorage,1,4,5
+349,2020,October,New York,Brooklyn,1,3,4
+350,2020,October,District of Columbia,Washington,1,3,4
+351,2020,October,Indiana,Indianapolis,3,4,7
+352,2020,October,Georgia,Atlanta,1,5,6
+353,2020,October,Tennessee,Clarksville,0,5,5
+354,2020,October,California,Sacramento,1,3,4
+355,2020,October,California,Los Angeles,0,4,4
+356,2020,October,Washington,Seattle,0,4,4
+357,2020,October,Michigan,Detroit,0,5,5
+358,2020,September,North Carolina,Greensboro,0,4,4
+359,2020,September,Florida,Jacksonville,0,4,4
+360,2020,September,Wisconsin,Milwaukee,0,7,7
+361,2020,September,Pennsylvania,Philadelphia,0,5,5
+362,2020,September,Ohio,Painesville,2,2,4
+363,2020,September,Michigan,Detroit,0,6,6
+364,2020,September,Ohio,Sandusky,1,3,4
+365,2020,September,California,San Bernardino,1,3,4
+366,2020,September,Tennessee,Nashville,0,4,4
+367,2020,September,Pennsylvania,Philadelphia,0,4,4
+368,2020,September,Alabama,Enterprise,1,3,4
+369,2020,September,Iowa,Waterloo,2,6,8
+370,2020,September,Illinois,Chicago,0,4,4
+371,2020,September,Missouri,Saint Louis,0,5,5
+372,2020,September,Pennsylvania,Philadelphia,0,4,4
+373,2020,September,Georgia,Hampton,1,3,4
+374,2020,September,Minnesota,Minneapolis,0,5,5
+375,2020,September,Ohio,Struthers,1,4,5
+376,2020,September,New York,Corona (Queens),0,4,4
+377,2020,September,Connecticut,Stamford,1,3,4
+378,2020,September,New York,Buffalo,1,4,5
+379,2020,September,Illinois,Chicago,0,4,4
+380,2020,September,Illinois,Chicago,0,4,4
+381,2020,September,New Jersey,Plainfield,0,4,4
+382,2020,September,New York,Rochester,2,14,16
+383,2020,September,New Jersey,Paterson,0,5,5
+384,2020,September,Arkansas,West Memphis,0,5,5
+385,2020,September,Arkansas,Little Rock,0,4,4
+386,2020,September,Pennsylvania,Philadelphia,2,3,5
+387,2020,September,California,San Jose,2,4,6
+388,2020,September,Illinois,Chicago,0,5,5
+389,2020,September,Louisiana,Baker,0,4,4
+390,2020,September,Tennessee,Manchester,3,3,6
+391,2020,September,Michigan,Grand Rapids,0,7,7
+392,2020,September,Florida,Tampa,0,4,4
+393,2020,September,Illinois,Chicago,1,3,4
+394,2020,September,New Jersey,New Brunswick,2,7,9
+395,2020,September,Illinois,Chicago,2,4,6
+396,2020,September,North Carolina,Wilson,0,5,5
+397,2020,September,Pennsylvania,Philadelphia,0,4,4
+398,2020,September,Louisiana,Donaldsonville,0,5,5
+399,2020,September,Louisiana,New Orleans,3,2,5
+400,2020,September,Maryland,Baltimore,0,5,5
+401,2020,September,Louisiana,New Orleans,0,4,4
+402,2020,September,New York,Brooklyn,0,5,5
+403,2020,September,California,Aguanga,7,0,7
+404,2020,September,Indiana,Indianapolis,1,4,5
+405,2020,September,Georgia,Sparta,1,6,7
+406,2020,September,Illinois,Chicago,0,4,4
+407,2020,September,Tennessee,Memphis,0,4,4
+408,2020,September,Colorado,Commerce City,0,4,4
+409,2020,September,Missouri,Kansas City,0,6,6
+410,2020,September,Missouri,Saint Louis,1,3,4
+411,2020,September,Louisiana,New Iberia,0,5,5
+412,2020,September,Maryland,Baltimore,0,4,4
+413,2020,September,Texas,Houston,0,4,4
+414,2020,September,Maryland,Baltimore,1,3,4
+415,2020,September,Florida,Williston,0,6,6
+416,2020,September,Arkansas,Little Rock,0,4,4
+417,2020,September,South Carolina,Anderson,1,3,4
+418,2020,September,Florida,Miami,1,3,4
+419,2020,September,Arkansas,Hensley,1,3,4
+420,2020,September,Pennsylvania,Philadelphia,0,6,6
+421,2020,September,Arkansas,Little Rock,0,4,4
+422,2020,September,Pennsylvania,Philadelphia,2,2,4
+423,2020,September,Georgia,Albany,1,3,4
+424,2020,September,California,Oakland,0,4,4
+425,2020,August,Pennsylvania,Philadelphia,0,5,5
+426,2020,August,Florida,Tallahassee,0,4,4
+427,2020,August,Kentucky,Lexington,0,7,7
+428,2020,August,Illinois,Zion,1,3,4
+429,2020,August,Texas,San Antonio,2,2,4
+430,2020,August,New York,Buffalo,1,4,5
+431,2020,August,Pennsylvania,Philadelphia,0,4,4
+432,2020,August,Illinois,Chicago,1,4,5
+433,2020,August,Kentucky,Madisonville,0,5,5
+434,2020,August,Nevada,Las Vegas,2,2,4
+435,2020,August,Illinois,Rock Island,1,5,6
+436,2020,August,Minnesota,Minneapolis,0,4,4
+437,2020,August,Pennsylvania,Chester,1,3,4
+438,2020,August,Texas,Dallas,1,4,5
+439,2020,August,Oregon,Portland,1,3,4
+440,2020,August,Michigan,Pontiac,3,1,4
+441,2020,August,South Carolina,Hilton Head Island,0,4,4
+442,2020,August,Pennsylvania,Philadelphia,0,4,4
+443,2020,August,Virginia,Norfolk,0,5,5
+444,2020,August,New York,Rochester,0,4,4
+445,2020,August,Michigan,Detroit,0,4,4
+446,2020,August,California,Sacramento,1,3,4
+447,2020,August,Florida,West Palm Beach,0,4,4
+448,2020,August,Virginia,Richmond,1,4,5
+449,2020,August,Arkansas,Pine Bluff,0,7,7
+450,2020,August,New York,Brooklyn,1,3,4
+451,2020,August,Tennessee,Somerville,1,4,5
+452,2020,August,Colorado,Pueblo,0,6,6
+453,2020,August,Illinois,Champaign,0,4,4
+454,2020,August,Illinois,Chicago,0,4,4
+455,2020,August,Illinois,Rockford,1,3,4
+456,2020,August,Alabama,Bessemer (Hueytown),1,3,4
+457,2020,August,Pennsylvania,Philadelphia,0,4,4
+458,2020,August,Illinois,Chicago,0,6,6
+459,2020,August,Pennsylvania,Philadelphia,1,4,5
+460,2020,August,New York,Corona (Queens),0,4,4
+461,2020,August,Illinois,Rockford,0,4,4
+462,2020,August,Ohio,Cleveland,0,5,5
+463,2020,August,New York,Brooklyn,0,4,4
+464,2020,August,Texas,Dayton,3,2,5
+465,2020,August,Ohio,Cincinnati,1,3,4
+466,2020,August,Ohio,Cincinnati,2,9,11
+467,2020,August,Kentucky,Lexington,1,3,4
+468,2020,August,Ohio,Cincinnati,1,3,4
+469,2020,August,Colorado,Denver,2,4,6
+470,2020,August,Oklahoma,Oklahoma City,0,4,4
+471,2020,August,Michigan,Belleville,4,0,4
+472,2020,August,Pennsylvania,Philadelphia,0,5,5
+473,2020,August,New York,Rochester,0,5,5
+474,2020,August,Connecticut,New Haven,1,5,6
+475,2020,August,Alabama,Troy,2,3,5
+476,2020,August,New York,New York (Manhattan),0,4,4
+477,2020,August,New Jersey,Newark,1,4,5
+478,2020,August,Ohio,Dayton,1,3,4
+479,2020,August,California,Torrance,0,5,5
+480,2020,August,Colorado,Denver,0,9,9
+481,2020,August,Ohio,Toledo,0,6,6
+483,2020,August,Mississippi,Jackson,0,4,4
+484,2020,August,Texas,Houston,0,4,4
+485,2020,August,Kentucky,Paducah,1,4,5
+486,2020,August,Pennsylvania,Philadelphia,0,6,6
+487,2020,August,Massachusetts,Brockton,0,5,5
+488,2020,August,Alabama,Birmingham (Ensley),1,5,6
+489,2020,August,New York,Albany,1,3,4
+490,2020,August,California,Oakland,1,3,4
+491,2020,August,Illinois,Chicago,0,4,4
+492,2020,August,Wisconsin,Madison,0,4,4
+493,2020,August,District of Columbia,Washington,0,4,4
+494,2020,August,California,Beverly Hills,1,4,5
+495,2020,August,Missouri,Saint Louis,1,3,4
+496,2020,August,Connecticut,Hartford,1,5,6
+497,2020,August,New York,Bronx,0,4,4
+498,2020,August,Pennsylvania,Philadelphia,0,4,4
+499,2020,August,New Jersey,Newark,0,5,5
+500,2020,August,Illinois,Chicago,1,4,5
+501,2020,August,Texas,Pointblank,2,3,5
+502,2020,August,Colorado,Denver,1,4,5
+503,2020,August,Alabama,Montgomery,0,4,4
+504,2020,July,Pennsylvania,Philadelphia,2,2,4
+505,2020,July,Florida,Miami Gardens,0,5,5
+506,2020,July,Florida,Tampa,0,5,5
+507,2020,July,Michigan,Detroit,0,4,4
+508,2020,July,Ohio,Elyria,5,0,5
+509,2020,July,Missouri,Saint Louis,3,2,5
+510,2020,July,Delaware,Wilmington,2,2,4
+511,2020,July,Wisconsin,Milwaukee,0,4,4
+512,2020,July,Washington,Federal Way,1,3,4
+513,2020,July,Illinois,Chicago,1,4,5
+514,2020,July,Michigan,Flint,1,3,4
+515,2020,July,Texas,Mount Enterprise,0,4,4
+516,2020,July,Kentucky,Louisville,1,3,4
+517,2020,July,Colorado,Commerce City,1,3,4
+518,2020,July,Arkansas,Magnolia,0,4,4
+519,2020,July,Michigan,Flint,0,6,6
+520,2020,July,North Carolina,Raleigh,0,4,4
+521,2020,July,Florida,Miami,1,3,4
+522,2020,July,Colorado,Denver,2,3,5
+523,2020,July,Texas,Dallas,0,4,4
+524,2020,July,California,Manteca,0,7,7
+525,2020,July,Georgia,Atlanta,2,2,4
+526,2020,July,Virginia,Fairfield,1,3,4
+527,2020,July,Virginia,Petersburg,0,4,4
+528,2020,July,Illinois,Chicago,2,4,6
+529,2020,July,Michigan,Warren,0,4,4
+530,2020,July,Illinois,Chicago,0,15,15
+531,2020,July,Virginia,Richmond,1,4,5
+532,2020,July,Illinois,Chicago,0,5,5
+533,2020,July,Michigan,Detroit,1,3,4
+534,2020,July,Illinois,Peoria,0,13,13
+535,2020,July,Nebraska,Omaha,0,8,8
+536,2020,July,Illinois,Chicago,2,3,5
+537,2020,July,District of Columbia,Washington,1,8,9
+538,2020,July,Michigan,Detroit,4,0,4
+539,2020,July,Illinois,Chicago,1,4,5
+540,2020,July,Ohio,Columbus,0,4,4
+541,2020,July,Florida,Madison,0,4,4
+542,2020,July,Tennessee,Nashville,0,5,5
+543,2020,July,Louisiana,Shreveport,1,3,4
+544,2020,July,New York,Brooklyn,1,5,6
+545,2020,July,Missouri,Saint Joseph,0,5,5
+546,2020,July,North Carolina,Durham,0,8,8
+547,2020,July,New York,Brooklyn,0,6,6
+548,2020,July,Kentucky,Louisville,1,3,4
+549,2020,July,Washington,Kent,0,6,6
+550,2020,July,Louisiana,Baton Rouge,1,7,8
+551,2020,July,New York,Brooklyn,1,3,4
+552,2020,July,Michigan,Lansing,0,5,5
+553,2020,July,Florida,Fort Lauderdale,2,2,4
+554,2020,July,Illinois,Chicago,1,3,4
+555,2020,July,Illinois,Chicago,1,4,5
+556,2020,July,Mississippi,Como,2,4,6
+557,2020,July,New York,Rochester,0,6,6
+558,2020,July,Delaware,Wilmington,0,5,5
+559,2020,July,Virginia,Alexandria,0,5,5
+560,2020,July,New Jersey,Paterson,4,3,7
+561,2020,July,Illinois,Chicago,0,6,6
+562,2020,July,Illinois,Chicago,0,4,4
+563,2020,July,Iowa,Davenport,1,3,4
+564,2020,July,New York,New York (Manhattan),0,5,5
+565,2020,July,South Carolina,Greenville,2,8,10
+566,2020,July,Arkansas,Helena,1,3,4
+567,2020,July,Georgia,Atlanta,2,13,15
+568,2020,July,Missouri,Columbia,2,3,5
+569,2020,July,Wisconsin,Milwaukee,0,4,4
+570,2020,July,Texas,Houston,0,4,4
+571,2020,July,Maryland,Cambridge,0,4,4
+572,2020,July,Illinois,Chicago,1,5,6
+573,2020,July,Pennsylvania,Ephrata,0,4,4
+574,2020,July,Illinois,Freeport,1,5,6
+575,2020,July,Mississippi,Greenville,0,4,4
+576,2020,July,Michigan,Detroit,2,4,6
+577,2020,July,South Carolina,Red Oak,0,5,5
+578,2020,July,Maryland,Temple Hills (Marlow Heights),1,3,4
+579,2020,July,Georgia,Atlanta,0,5,5
+580,2020,July,Massachusetts,Lynn,1,4,5
+581,2020,July,Illinois,Chicago,1,3,4
+582,2020,July,Illinois,Chicago,4,4,8
+583,2020,July,Louisiana,Baton Rouge,0,4,4
+584,2020,July,Mississippi,Jackson,1,3,4
+585,2020,July,Alabama,Birmingham (Hoover),1,3,4
+586,2020,July,Maryland,Baltimore,0,4,4
+587,2020,July,California,Delano,2,3,5
+588,2020,July,Massachusetts,Somerville,0,4,4
+589,2020,July,New Jersey,Paterson,1,4,5
+590,2020,July,California,Oakland,0,4,4
+591,2020,July,Louisiana,Lake Charles,0,4,4
+592,2020,June,Iowa,Davenport,0,5,5
+593,2020,June,Georgia,Atlanta,1,4,5
+594,2020,June,Massachusetts,Boston,1,3,4
+595,2020,June,Illinois,Chicago,0,4,4
+596,2020,June,Ohio,Dayton,0,4,4
+597,2020,June,Arkansas,Greenbrier,0,4,4
+598,2020,June,California,Sylmar,0,4,4
+599,2020,June,South Dakota,Sioux Falls,1,3,4
+600,2020,June,Pennsylvania,Philadelphia,2,2,4
+601,2020,June,Alabama,Akron,0,7,7
+602,2020,June,Illinois,Chicago,2,2,4
+603,2020,June,California,Red Bluff,3,4,7
+604,2020,June,Illinois,Peoria,0,4,4
+605,2020,June,New York,Brooklyn,0,4,4
+606,2020,June,Arkansas,Blytheville,3,1,4
+607,2020,June,Colorado,Aurora,0,5,5
+608,2020,June,California,Fresno,0,4,4
+609,2020,June,Arizona,Phoenix,0,4,4
+610,2020,June,Pennsylvania,Philadelphia,0,4,4
+611,2020,June,Connecticut,Bridgeport,1,3,4
+612,2020,June,Tennessee,Jackson,0,4,4
+613,2020,June,Illinois,Chicago,0,4,4
+614,2020,June,Florida,Lake Worth,0,5,5
+615,2020,June,North Carolina,Charlotte,4,5,9
+616,2020,June,California,San Francisco,0,5,5
+617,2020,June,New York,Brooklyn,0,5,5
+618,2020,June,Minnesota,Minneapolis,0,4,4
+619,2020,June,Minnesota,Minneapolis,0,4,4
+620,2020,June,Illinois,Chicago,0,5,5
+621,2020,June,Illinois,Chicago,0,4,4
+622,2020,June,Ohio,Columbus,1,4,5
+623,2020,June,New York,Buffalo,0,4,4
+624,2020,June,Texas,Austin,0,5,5
+625,2020,June,Minnesota,Minneapolis,0,11,11
+626,2020,June,Alabama,Auburn,0,4,4
+627,2020,June,Texas,Corpus Christi,1,3,4
+628,2020,June,Wisconsin,Milwaukee,0,5,5
+629,2020,June,Illinois,Chicago,1,3,4
+630,2020,June,New York,Bronx,0,4,4
+631,2020,June,New York,Syracuse,1,8,9
+632,2020,June,Michigan,Detroit,0,4,4
+633,2020,June,Michigan,Saginaw,1,3,4
+634,2020,June,Wisconsin,Janesville,0,5,5
+635,2020,June,North Carolina,Pinetops,2,2,4
+636,2020,June,New Jersey,Jersey City,1,4,5
+637,2020,June,Kansas,Wichita,0,5,5
+638,2020,June,New York,Bronx,0,4,4
+639,2020,June,New York,Albany,0,7,7
+640,2020,June,Illinois,Chicago,0,4,4
+641,2020,June,Iowa,Fort Dodge,2,2,4
+642,2020,June,Illinois,Chicago,0,4,4
+643,2020,June,Minnesota,Minneapolis,1,6,7
+644,2020,June,Kentucky,Louisville,1,4,5
+645,2020,June,Louisiana,Lafayette,0,5,5
+646,2020,June,Louisiana,Lake Charles,0,4,4
+647,2020,June,Louisiana,New Orleans,2,2,4
+648,2020,June,Arkansas,Rison,0,4,4
+649,2020,June,California,Hesperia,0,5,5
+650,2020,June,Missouri,Saint Louis,2,4,6
+651,2020,June,New York,Wyandanch,1,7,8
+652,2020,June,Maryland,Baltimore,0,5,5
+653,2020,June,Georgia,Atlanta,2,5,7
+654,2020,June,District of Columbia,Washington,2,5,7
+655,2020,June,Pennsylvania,Philadelphia,0,6,6
+656,2020,June,New York,Bronx,1,3,4
+657,2020,June,Texas,San Antonio,0,8,8
+658,2020,June,Virginia,Richmond,0,4,4
+659,2020,June,District of Columbia,Washington,0,7,7
+660,2020,June,Louisiana,Monroe,6,0,6
+661,2020,June,Texas,Houston,2,4,6
+662,2020,June,California,Sacramento,1,4,5
+663,2020,June,Ohio,Toledo,1,3,4
+664,2020,June,California,Paso Robles,2,4,6
+665,2020,June,North Carolina,Scotland Neck,0,5,5
+666,2020,June,Pennsylvania,Philadelphia,1,6,7
+667,2020,June,California,Vallejo,2,3,5
+668,2020,June,New York,Brooklyn,0,4,4
+669,2020,June,Tennessee,Memphis,0,4,4
+670,2020,June,Arkansas,Hope,0,5,5
+671,2020,June,Illinois,Robbins,1,3,4
+672,2020,June,Missouri,Sikeston,2,7,9
+673,2020,June,Tennessee,Dyersburg,0,5,5
+674,2020,June,Illinois,Chicago,1,3,4
+675,2020,June,Illinois,Chicago,0,6,6
+676,2020,June,Missouri,Kansas City,1,4,5
+677,2020,June,Mississippi,Drew,0,5,5
+678,2020,June,California,Sacramento,1,4,5
+679,2020,June,Ohio,Ironton,0,4,4
+680,2020,June,Colorado,Denver,0,4,4
+681,2020,June,Alabama,Valhermoso Springs,7,0,7
+682,2020,June,Texas,Dallas,1,3,4
+683,2020,June,Wisconsin,Racine,0,5,5
+684,2020,June,Illinois,Chicago,0,4,4
+685,2020,June,Missouri,Saint Louis,0,4,4
+686,2020,May,Mississippi,Gulfport,1,5,6
+687,2020,May,Pennsylvania,Philadelphia,0,4,4
+688,2020,May,New Jersey,Paterson,0,4,4
+689,2020,May,District of Columbia,Washington,0,4,4
+690,2020,May,Texas,Houston,1,4,5
+691,2020,May,Florida,Altha,2,4,6
+692,2020,May,North Carolina,Gastonia,1,5,6
+693,2020,May,Virginia,Portsmouth,0,5,5
+694,2020,May,Kentucky,Louisville,0,7,7
+695,2020,May,Tennessee,Memphis,0,4,4
+696,2020,May,Pennsylvania,Philadelphia,1,3,4
+697,2020,May,Massachusetts,Boston,1,4,5
+698,2020,May,Ohio,Cleveland,1,3,4
+699,2020,May,California,San Jose,0,5,5
+700,2020,May,Pennsylvania,Philadelphia,0,4,4
+701,2020,May,Mississippi,Vicksburg,0,4,4
+702,2020,May,Pennsylvania,Philadelphia,0,4,4
+703,2020,May,Illinois,Chicago,2,2,4
+704,2020,May,California,Los Angeles,0,5,5
+705,2020,May,South Carolina,Bowman,3,5,8
+706,2020,May,Louisiana,Lake Charles,0,6,6
+707,2020,May,Missouri,Saint Louis,0,4,4
+708,2020,May,Alabama,Danville,3,1,4
+709,2020,May,South Carolina,Myrtle Beach,0,4,4
+710,2020,May,Texas,Houston,0,4,4
+711,2020,May,Illinois,Rock Island,1,4,5
+712,2020,May,South Carolina,Jonesville,2,5,7
+713,2020,May,North Carolina,Charlotte,0,6,6
+714,2020,May,Michigan,Flint,1,3,4
+715,2020,May,Florida,Fort Lauderdale (Lauderhill),0,5,5
+716,2020,May,Florida,Daytona Beach,0,6,6
+717,2020,May,Illinois,Chicago,1,3,4
+718,2020,May,Mississippi,Jackson,1,4,5
+719,2020,May,Ohio,Cleveland,1,3,4
+720,2020,May,Texas,Houston,2,3,5
+721,2020,May,Illinois,Decatur,0,5,5
+722,2020,May,California,Bakersfield,0,5,5
+723,2020,May,South Carolina,Charleston,0,4,4
+724,2020,May,Maryland,District Heights,1,3,4
+725,2020,May,South Carolina,Saint Matthews,4,1,5
+726,2020,May,Louisiana,Bogalusa,0,13,13
+727,2020,May,Florida,Gainesville,0,5,5
+728,2020,May,Pennsylvania,Philadelphia,0,4,4
+729,2020,May,New Mexico,Albuquerque,0,5,5
+730,2020,May,Illinois,Rockford,1,4,5
+731,2020,May,Kentucky,Garrison,1,4,5
+732,2020,May,Tennessee,Memphis,0,4,4
+733,2020,May,Alabama,Montgomery,0,4,4
+734,2020,May,Louisiana,Baton Rouge,0,5,5
+735,2020,May,Texas,Fort Worth,0,5,5
+736,2020,May,Texas,Katy,0,6,6
+737,2020,May,Missouri,Saint Louis,0,4,4
+738,2020,May,Maryland,Baltimore,0,4,4
+739,2020,May,Texas,Houston,3,1,4
+740,2020,May,Georgia,Albany,1,3,4
+741,2020,May,Tennessee,Memphis,2,2,4
+742,2020,May,Ohio,Columbus,0,4,4
+743,2020,May,Florida,Jacksonville,1,3,4
+744,2020,May,Illinois,Chicago,0,5,5
+745,2020,May,Pennsylvania,Philadelphia,0,4,4
+746,2020,April,Indiana,Indianapolis,0,4,4
+747,2020,April,Wisconsin,Milwaukee,5,0,5
+748,2020,April,New York,Troy,0,4,4
+749,2020,April,North Carolina,Salisbury,1,4,5
+750,2020,April,Florida,Orlando,1,4,5
+751,2020,April,Tennessee,Memphis,0,7,7
+752,2020,April,Texas,Houston,3,1,4
+753,2020,April,Indiana,Fort Wayne,0,4,4
+754,2020,April,Maryland,Hyattsville,2,2,4
+755,2020,April,North Carolina,Greensboro,1,3,4
+756,2020,April,Massachusetts,Springfield,1,4,5
+757,2020,April,Pennsylvania,Philadelphia,0,4,4
+758,2020,April,Mississippi,Jackson,1,3,4
+759,2020,April,California,Bakersfield,0,6,6
+760,2020,April,Michigan,Muskegon,0,4,4
+761,2020,April,Michigan,Detroit,0,4,4
+762,2020,April,South Carolina,Greenwood,1,3,4
+763,2020,April,Alaska,Anchorage,0,4,4
+764,2020,April,Illinois,Chicago,1,3,4
+765,2020,April,New York,Brooklyn,0,4,4
+766,2020,April,California,Los Angeles,1,3,4
+767,2020,April,South Carolina,Lancaster,1,4,5
+768,2020,April,Texas,Vidor,0,4,4
+769,2020,April,Texas,Lubbock,2,2,4
+770,2020,April,Florida,Hialeah,1,4,5
+771,2020,April,Kentucky,Louisville,0,4,4
+772,2020,March,Georgia,Macon,3,1,4
+773,2020,March,Pennsylvania,Philadelphia,0,5,5
+774,2020,March,Georgia,Atlanta,0,4,4
+775,2020,March,Maryland,Baltimore,1,3,4
+776,2020,March,Texas,San Antonio,0,4,4
+777,2020,March,South Carolina,Hanahan,0,4,4
+778,2020,March,Virginia,Norfolk,0,4,4
+779,2020,March,Missouri,Saint Louis,0,4,4
+780,2020,March,Florida,Jacksonville,1,4,5
+781,2020,March,Maryland,Baltimore,0,7,7
+782,2020,March,North Carolina,Moncure,7,0,7
+783,2020,March,Missouri,Springfield,5,2,7
+784,2020,March,Michigan,Saginaw,2,2,4
+785,2020,March,New Mexico,Albuquerque,1,3,4
+786,2020,March,Illinois,Rockford,0,4,4
+787,2020,March,Louisiana,New Orleans (Algiers),0,5,5
+788,2020,March,Pennsylvania,Chester,2,2,4
+789,2020,March,Maryland,Rosedale,1,5,6
+790,2020,March,Illinois,South Holland,0,4,4
+791,2020,March,California,Ceres,1,3,4
+792,2020,March,Ohio,Cleveland,1,18,19
+793,2020,March,New Mexico,Albuquerque,0,4,4
+794,2020,March,Illinois,Chicago,0,7,7
+795,2020,March,District of Columbia,Washington,0,6,6
+796,2020,March,California,Tulare,1,5,6
+797,2020,February,Missouri,Kansas City,1,4,5
+798,2020,February,Colorado,Brighton,0,5,5
+799,2020,February,Wisconsin,Milwaukee,6,0,6
+800,2020,February,Illinois,Chicago,1,4,5
+801,2020,February,North Carolina,Clarkton,3,1,4
+802,2020,February,Texas,Houston,0,7,7
+803,2020,February,Idaho,Caldwell,2,3,5
+804,2020,February,North Carolina,Greensboro,0,4,4
+805,2020,February,Mississippi,Port Gibson,2,2,4
+806,2020,February,Connecticut,Hartford,1,5,6
+807,2020,February,Florida,Pensacola,1,4,5
+808,2020,February,Louisiana,New Orleans,0,4,4
+809,2020,February,Tennessee,Memphis,0,7,7
+810,2020,February,Illinois,Chicago,0,6,6
+811,2020,February,Delaware,Dover,1,4,5
+812,2020,February,Texas,Houston,1,3,4
+813,2020,February,Indiana,Indianapolis,4,0,4
+814,2020,February,Maine,Machias,3,1,4
+815,2020,February,California,Lebec,1,5,6
+816,2020,February,Mississippi,Philadelphia,0,4,4
+817,2020,January,California,Delano,1,4,5
+818,2020,January,Louisiana,Shreveport,0,4,4
+819,2020,January,Florida,Boynton Beach,1,3,4
+820,2020,January,California,Merced,0,4,4
+821,2020,January,Connecticut,Bridgeport,0,4,4
+822,2020,January,Missouri,Cape Girardeau,0,5,5
+823,2020,January,New York,Newburgh,3,1,4
+824,2020,January,North Carolina,Salisbury,0,6,6
+825,2020,January,South Carolina,Hartsville,3,3,6
+826,2020,January,North Carolina,Vanceboro,5,0,5
+827,2020,January,Washington,Seattle,1,7,8
+828,2020,January,Missouri,Kansas City,2,15,17
+829,2020,January,Tennessee,Memphis,1,4,5
+830,2020,January,Texas,San Antonio,2,5,7
+831,2020,January,Texas,South Houston,2,2,4
+832,2020,January,Utah,Grantsville,4,1,5
+833,2020,January,Illinois,Chicago,0,5,5
+834,2020,January,Colorado,Aurora,0,5,5
+835,2020,January,Mississippi,Bay Saint Louis,2,2,4
+836,2020,January,Georgia,Atlanta,0,4,4
+837,2020,January,Florida,Ocala,1,3,4
+838,2020,January,New York,Brooklyn,0,4,4
+839,2020,January,Ohio,Cleveland,0,4,4
+840,2020,January,West Virginia,Huntington,0,7,7
+841,2020,January,Missouri,Saint Louis,3,2,5
+842,2019,December,Illinois,Danville,0,5,5
+843,2019,December,New York,Buffalo,1,3,4
+844,2019,December,California,Ceres,0,5,5
+845,2019,December,California,Modesto,1,3,4
+846,2019,December,Georgia,Kennesaw,0,4,4
+847,2019,December,Texas,Houston,2,7,9
+848,2019,December,Florida,Saint Petersburg,0,5,5
+849,2019,December,California,Oakland,0,4,4
+850,2019,December,Iowa,Coralville,1,3,4
+851,2019,December,Virginia,Richmond,1,3,4
+852,2019,December,Louisiana,New Orleans,0,4,4
+853,2019,December,Illinois,Joliet,0,5,5
+854,2019,December,North Carolina,High Point,0,6,6
+855,2019,December,Maryland,Baltimore,0,7,7
+856,2019,December,Minnesota,Minneapolis (Spring Lake Park),1,7,8
+857,2019,December,Illinois,Chicago,0,13,13
+858,2019,December,Louisiana,Edgard,0,4,4
+859,2019,December,Mississippi,Waynesboro,1,6,7
+860,2019,December,Alabama,Tuskegee,2,2,4
+861,2019,December,Texas,San Antonio,0,4,4
+862,2019,December,Montana,Great Falls,4,1,5
+863,2019,December,Georgia,Columbus,1,4,5
+864,2019,December,California,Ivanhoe,0,4,4
+865,2019,December,Missouri,Saint Louis (Moline Acres),1,3,4
+866,2019,December,New Jersey,Jersey City,6,3,9
+867,2019,December,Texas,Desoto,2,3,5
+868,2019,December,Louisiana,New Orleans,1,4,5
+869,2019,December,Florida,Pensacola,4,8,12
+870,2019,December,Alabama,Montgomery,2,2,4
+871,2019,December,Louisiana,Cotton Valley,2,3,5
+872,2019,December,Louisiana,New Orleans,2,2,4
+873,2019,December,Illinois,Aurora,1,4,5
+874,2019,December,Michigan,Kalamazoo,1,3,4
+875,2019,December,Louisiana,New Orleans,0,12,12
+876,2019,November,Arkansas,Hensley,0,5,5
+877,2019,November,Texas,Amarillo,0,7,7
+878,2019,November,New York,Bronx,0,5,5
+879,2019,November,Florida,Brownsville,2,2,4
+880,2019,November,Alabama,Birmingham,1,4,5
+881,2019,November,California,Los Angeles,0,6,6
+882,2019,November,Louisiana,Cottonport,2,2,4
+883,2019,November,California,Los Angeles,0,4,4
+884,2019,November,Louisiana,Tallulah,1,6,7
+885,2019,November,California,Long Beach,0,5,5
+886,2019,November,Washington,Everett,0,4,4
+887,2019,November,California,Richmond,0,4,4
+888,2019,November,New Jersey,Newark,1,4,5
+889,2019,November,California,Fresno,4,6,10
+890,2019,November,Ohio,Cleveland,0,4,4
+891,2019,November,California,San Diego,6,0,6
+892,2019,November,California,Santa Clarita,3,3,6
+893,2019,November,Florida,Belle Glade,0,4,4
+894,2019,November,Missouri,Kansas City,0,4,4
+895,2019,November,Tennessee,Memphis,1,4,5
+896,2019,November,Arkansas,Little Rock,0,4,4
+897,2019,November,Michigan,Detroit,0,4,4
+898,2019,November,Georgia,Vidalia,0,4,4
+899,2019,November,North Carolina,Raleigh,1,3,4
+900,2019,November,Georgia,Conyers,2,3,5
+901,2019,November,Texas,Houston,1,4,5
+902,2019,November,Ohio,Toledo,0,4,4
+903,2019,November,Texas,Nacogdoches,1,3,4
+904,2019,November,Louisiana,Baton Rouge,0,4,4
+905,2019,November,Michigan,Detroit,1,4,5
+906,2019,November,Arizona,Tolleson,0,5,5
+907,2019,November,Texas,San Angelo,0,4,4
+908,2019,October,California,Orinda,5,3,8
+909,2019,October,Pennsylvania,Philadelphia,4,0,4
+910,2019,October,Maryland,Baltimore,1,3,4
+911,2019,October,California,Long Beach,3,9,12
+912,2019,October,Maryland,Baltimore,1,3,4
+913,2019,October,Michigan,Detroit,0,4,4
+914,2019,October,Michigan,Lansing,1,4,5
+915,2019,October,Texas,Greenville,2,6,8
+916,2019,October,Oklahoma,Oklahoma City,2,2,4
+917,2019,October,Oklahoma,Oklahoma City (Midwest City),1,3,4
+918,2019,October,South Carolina,Sumter,0,4,4
+919,2019,October,Texas,Port Arthur,1,3,4
+920,2019,October,Pennsylvania,Duquesne,0,4,4
+921,2019,October,Texas,El Paso,1,4,5
+922,2019,October,Ohio,Columbus,0,4,4
+923,2019,October,Pennsylvania,Philadelphia,0,6,6
+924,2019,October,Ohio,Akron,0,4,4
+925,2019,October,New York,Brooklyn,4,3,7
+926,2019,October,Illinois,Chicago,5,0,5
+927,2019,October,Pennsylvania,Philadelphia,1,3,4
+928,2019,October,Maryland,Baltimore,1,3,4
+929,2019,October,Michigan,Eastpointe,1,5,6
+930,2019,October,Florida,Tampa,2,2,4
+931,2019,October,Pennsylvania,Philadelphia,0,5,5
+932,2019,October,Massachusetts,Lowell,0,5,5
+933,2019,October,Maryland,Baltimore,1,3,4
+934,2019,October,Massachusetts,Abington,5,0,5
+935,2019,October,Indiana,Evansville,0,5,5
+936,2019,October,Colorado,Denver,0,4,4
+937,2019,October,Kansas,Kansas City,4,5,9
+938,2019,October,Missouri,Saint Louis,0,5,5
+939,2019,October,North Carolina,Roxboro,1,3,4
+940,2019,October,Missouri,Marshall,1,3,4
+941,2019,October,Missouri,Saint Louis,0,4,4
+942,2019,September,Illinois,Round Lake (Round Lake Park),1,3,4
+943,2019,September,Wisconsin,Milwaukee,0,4,4
+944,2019,September,Florida,Jacksonville,0,4,4
+945,2019,September,Kansas,Claflin,0,4,4
+946,2019,September,Texas,Beaumont,4,0,4
+947,2019,September,Illinois,Chicago,1,3,4
+948,2019,September,Indiana,Gary,2,2,4
+949,2019,September,Missouri,Kansas City,0,5,5
+950,2019,September,Louisiana,New Orleans,0,4,4
+951,2019,September,South Carolina,Lancaster,2,8,10
+952,2019,September,Indiana,Indianapolis,0,6,6
+953,2019,September,Ohio,Cleveland,4,0,4
+954,2019,September,Louisiana,New Orleans,1,5,6
+955,2019,September,District of Columbia,Washington,1,5,6
+956,2019,September,Illinois,Chicago,3,1,4
+957,2019,September,California,Wilmington,2,2,4
+958,2019,September,Wyoming,Cheyenne,2,2,4
+959,2019,September,Missouri,Saint Louis,1,3,4
+960,2019,September,California,Oakland,1,4,5
+961,2019,September,Georgia,Lagrange,0,4,4
+962,2019,September,New Mexico,Albuquerque,1,4,5
+963,2019,September,New Mexico,Albuquerque,4,2,6
+964,2019,September,Illinois,Chicago,0,4,4
+965,2019,September,South Carolina,Sumter,2,2,4
+966,2019,September,Louisiana,Alexandria,1,3,4
+967,2019,September,North Carolina,Whiteville,3,1,4
+968,2019,September,Louisiana,Marrero,2,2,4
+969,2019,September,Florida,Jacksonville,0,4,4
+970,2019,September,North Carolina,Greensboro,2,2,4
+971,2019,September,Illinois,Chicago,0,4,4
+972,2019,September,Alabama,Elkmont,5,0,5
+973,2019,September,Connecticut,Hartford,1,3,4
+974,2019,September,North Carolina,Rocky Mount,0,4,4
+975,2019,September,Alabama,Valley,0,7,7
+976,2019,September,Ohio,Toledo,0,4,4
+977,2019,August,North Carolina,Charlotte,1,3,4
+978,2019,August,South Carolina,Moncks Corner,0,4,4
+980,2019,August,Pennsylvania,Philadelphia,2,2,4
+981,2019,August,Maryland,Baltimore,0,4,4
+982,2019,August,Maryland,Frederick,0,4,4
+983,2019,August,Illinois,Chicago,2,3,5
+984,2019,August,Maryland,Baltimore,1,3,4
+985,2019,August,Alabama,Mobile,0,6,6
+986,2019,August,Maryland,Baltimore,1,3,4
+987,2019,August,New Mexico,Hobbs,3,4,7
+988,2019,August,Illinois,Chicago,1,3,4
+989,2019,August,Maryland,Temple Hills (Camp Springs),0,7,7
+990,2019,August,Massachusetts,Lynn,1,3,4
+991,2019,August,Texas,Houston,3,2,5
+992,2019,August,Georgia,Dublin,0,4,4
+993,2019,August,Missouri,Saint Louis,1,3,4
+994,2019,August,South Carolina,Columbia,2,2,4
+995,2019,August,California,Los Angeles,0,4,4
+996,2019,August,Georgia,Atlanta,0,4,4
+997,2019,August,Missouri,Kansas City,0,4,4
+998,2019,August,Texas,Houston,0,6,6
+999,2019,August,Alabama,Montgomery,2,3,5
+1000,2019,August,Pennsylvania,Philadelphia,0,5,5
+1001,2019,August,Pennsylvania,Philadelphia,0,6,6
+1002,2019,August,Washington,Tacoma,2,3,5
+1003,2019,August,Mississippi,Greenwood,0,4,4
+1004,2019,August,Illinois,Chicago,0,6,6
+1005,2019,August,Virginia,Richmond,0,4,4
+1006,2019,August,California,San Francisco,0,4,4
+1007,2019,August,Illinois,Chicago,0,4,4
+1008,2019,August,Missouri,Saint Louis,3,1,4
+1009,2019,August,New York,Brooklyn,0,4,4
+1010,2019,August,Louisiana,Lake Charles,0,4,4
+1011,2019,August,Illinois,Chicago,1,7,8
+1012,2019,August,Tennessee,Memphis,1,3,4
+1013,2019,August,Illinois,Chicago,0,7,7
+1014,2019,August,Ohio,Dayton,10,17,27
+1016,2019,August,Virginia,Suffolk,2,3,5
+1017,2019,July,Ohio,Columbus,0,5,5
+1018,2019,July,Pennsylvania,Philadelphia,1,5,6
+1019,2019,July,California,Gilroy,4,17,21
+1020,2019,July,Wisconsin,Chippewa Falls,5,2,7
+1021,2019,July,District of Columbia,Washington,0,4,4
+1022,2019,July,Illinois,Chicago,0,4,4
+1023,2019,July,Kansas,Wichita,1,3,4
+1024,2019,July,New York,Brooklyn,1,11,12
+1025,2019,July,Washington,Kennewick,1,3,4
+1026,2019,July,California,Canoga Park,4,2,6
+1027,2019,July,Illinois,Chicago,0,4,4
+1028,2019,July,District of Columbia,Washington,0,4,4
+1029,2019,July,Pennsylvania,Clairton,0,4,4
+1030,2019,July,Maryland,Baltimore,1,3,4
+1031,2019,July,Illinois,Chicago,0,7,7
+1032,2019,July,Illinois,Chicago,1,3,4
+1033,2019,July,Texas,Lubbock,1,3,4
+1034,2019,July,Texas,San Antonio,0,4,4
+1035,2019,July,Georgia,Atlanta,0,4,4
+1036,2019,July,Illinois,Chicago,0,4,4
+1037,2019,July,Illinois,Chicago,1,4,5
+1038,2019,July,Pennsylvania,Philadelphia,0,7,7
+1039,2019,July,Texas,Houston,0,4,4
+1040,2019,July,District of Columbia,Washington,2,2,4
+1041,2019,July,Michigan,Flint,0,6,6
+1042,2019,July,Missouri,Saint Louis,0,5,5
+1043,2019,July,Illinois,Chicago,0,4,4
+1044,2019,July,Illinois,Chicago,0,4,4
+1045,2019,July,New Mexico,Albuquerque,0,4,4
+1046,2019,July,California,San Jose,0,4,4
+1047,2019,July,Missouri,Saint Louis,5,0,5
+1048,2019,July,Massachusetts,Boston,0,6,6
+1049,2019,July,Nevada,Reno,1,5,6
+1050,2019,July,Illinois,Chicago,0,5,5
+1051,2019,July,New York,Brooklyn,0,4,4
+1052,2019,July,Illinois,Rockford,0,4,4
+1053,2019,July,California,Los Angeles,0,4,4
+1054,2019,July,Illinois,Chicago,1,3,4
+1055,2019,July,California,Fresno,1,3,4
+1056,2019,July,Texas,Katy,2,3,5
+1057,2019,July,Missouri,Saint Louis (Wellston),0,4,4
+1058,2019,July,Maryland,Baltimore,0,4,4
+1059,2019,June,California,Oakland,0,4,4
+1060,2019,June,California,Yucaipa,0,5,5
+1061,2019,June,Texas,Dallas,2,2,4
+1062,2019,June,New York,Bay Shore,0,6,6
+1063,2019,June,Connecticut,Hartford,0,4,4
+1064,2019,June,Louisiana,Gray,0,4,4
+1065,2019,June,Illinois,Chicago,0,5,5
+1066,2019,June,Louisiana,Baton Rouge,0,7,7
+1067,2019,June,New Jersey,Paterson,0,4,4
+1068,2019,June,Connecticut,Hamden,0,5,5
+1069,2019,June,Georgia,Atlanta,0,7,7
+1070,2019,June,New Jersey,Jersey City,0,4,4
+1071,2019,June,Minnesota,Saint Paul,0,5,5
+1072,2019,June,Georgia,Atlanta,0,7,7
+1073,2019,June,Ohio,Akron,1,3,4
+1074,2019,June,Wisconsin,Milwaukee,0,4,4
+1075,2019,June,California,La Jolla,1,3,4
+1076,2019,June,California,San Jose,5,0,5
+1077,2019,June,Indiana,South Bend,1,10,11
+1078,2019,June,Ohio,Columbus,0,5,5
+1079,2019,June,South Carolina,Abbeville,3,1,4
+1080,2019,June,Virginia,Hampton,0,4,4
+1081,2019,June,Pennsylvania,Philadelphia,0,4,4
+1082,2019,June,Maryland,Baltimore,1,4,5
+1083,2019,June,Michigan,Saginaw,1,3,4
+1084,2019,June,Illinois,Chicago,0,4,4
+1085,2019,June,California,Santa Maria,5,0,5
+1086,2019,June,California,Richmond,0,5,5
+1087,2019,June,Pennsylvania,Allentown,0,10,10
+1088,2019,June,New Jersey,Newark,1,4,5
+1089,2019,June,Texas,San Antonio,0,4,4
+1090,2019,June,Tennessee,Memphis,0,5,5
+1091,2019,June,Pennsylvania,Philadelphia,1,5,6
+1092,2019,June,Kentucky,Louisville,1,6,7
+1093,2019,June,Iowa,Des Moines,0,6,6
+1094,2019,June,Louisiana,Shreveport,0,4,4
+1095,2019,June,North Carolina,Charlotte,1,3,4
+1096,2019,June,Colorado,Aurora,0,4,4
+1097,2019,June,Georgia,Savannah,2,2,4
+1098,2019,June,Ohio,Cleveland,1,3,4
+1099,2019,June,New York,Buffalo,0,4,4
+1100,2019,June,Tennessee,Henning,1,3,4
+1101,2019,June,Washington,White Swan,5,2,7
+1102,2019,June,Illinois,Chicago,0,4,4
+1103,2019,June,Texas,Austin,0,5,5
+1104,2019,June,Illinois,Chicago,1,3,4
+1105,2019,June,California,Santa Rosa,0,4,4
+1106,2019,June,South Carolina,Allendale,0,5,5
+1107,2019,June,Illinois,Chicago,0,4,4
+1108,2019,June,Virginia,Portsmouth,1,3,4
+1109,2019,June,Illinois,Chicago,0,4,4
+1110,2019,June,Georgia,Atlanta,0,5,5
+1111,2019,June,Georgia,Macon,2,4,6
+1112,2019,May,Virginia,Virginia Beach,13,4,17
+1113,2019,May,California,West Covina,1,3,4
+1114,2019,May,Illinois,Robbins,0,5,5
+1115,2019,May,Texas,Cleveland,3,2,5
+1116,2019,May,Louisiana,Reserve,1,3,4
+1117,2019,May,Missouri,Saint Louis,2,2,4
+1118,2019,May,District of Columbia,Washington,0,5,5
+1119,2019,May,New Jersey,Trenton,1,5,6
+1120,2019,May,District of Columbia,Washington,1,3,4
+1121,2019,May,Virginia,La Crosse,0,5,5
+1122,2019,May,California,Stockton,1,3,4
+1123,2019,May,New Jersey,Trenton,0,9,9
+1124,2019,May,Michigan,Detroit,3,2,5
+1125,2019,May,Virginia,Chesapeake,1,9,10
+1126,2019,May,Maryland,Baltimore,0,4,4
+1127,2019,May,Oklahoma,Oklahoma City,0,5,5
+1128,2019,May,Oklahoma,Tulsa,2,2,4
+1129,2019,May,Louisiana,Alexandria,1,4,5
+1130,2019,May,Ohio,Columbus,0,4,4
+1131,2019,May,Oregon,Portland,0,5,5
+1132,2019,May,Mississippi,Cascilla,1,4,5
+1133,2019,May,Alabama,Atmore,1,8,9
+1134,2019,May,Indiana,Muncie,1,6,7
+1135,2019,May,California,Long Beach,1,4,5
+1136,2019,May,Iowa,Cedar Rapids,2,2,4
+1137,2019,May,Nebraska,Omaha,0,4,4
+1138,2019,May,North Carolina,Winston Salem (Winston-salem),2,4,6
+1139,2019,May,California,Sacramento,1,3,4
+1140,2019,May,Ohio,Cleveland,0,4,4
+1141,2019,May,Louisiana,Saint Rose,0,4,4
+1142,2019,May,California,Los Angeles,0,4,4
+1143,2019,May,Louisiana,New Orleans,0,4,4
+1144,2019,May,Missouri,Saint Louis,4,1,5
+1145,2019,May,Pennsylvania,Effort,0,4,4
+1146,2019,May,Pennsylvania,Philadelphia,0,5,5
+1147,2019,May,Missouri,Saint Louis,0,6,6
+1148,2019,May,Indiana,Indianapolis,0,4,4
+1149,2019,May,Colorado,Littleton (Highlands Ranch),1,8,9
+1150,2019,May,New Jersey,North Bergen,1,4,5
+1151,2019,May,California,Oceano,0,6,6
+1152,2019,May,Missouri,Saint Louis,1,4,5
+1153,2019,May,Indiana,Indianapolis,0,4,4
+1154,2019,May,California,Stockton,1,4,5
+1155,2019,May,Delaware,Wilmington,0,4,4
+1156,2019,May,Texas,Dallas,1,3,4
+1157,2019,May,Maryland,Baltimore,0,5,5
+1158,2019,May,Maryland,Baltimore,0,4,4
+1159,2019,May,Massachusetts,Boston,1,3,4
+1160,2019,April,North Carolina,Charlotte,2,4,6
+1161,2019,April,Tennessee,Nashville,0,7,7
+1162,2019,April,Alabama,Birmingham,0,4,4
+1163,2019,April,Maryland,Baltimore,1,7,8
+1164,2019,April,Ohio,West Chester,4,0,4
+1165,2019,April,Mississippi,Jackson,1,3,4
+1166,2019,April,California,Poway,1,3,4
+1167,2019,April,California,Los Angeles,0,6,6
+1168,2019,April,Pennsylvania,Philadelphia,0,4,4
+1169,2019,April,Tennessee,Memphis,0,6,6
+1170,2019,April,Kansas,Wichita,0,4,4
+1171,2019,April,Kentucky,Louisville,0,4,4
+1172,2019,April,Maryland,Germantown,1,3,4
+1173,2019,April,Florida,Miami,2,2,4
+1174,2019,April,California,Vallejo,1,3,4
+1175,2019,April,California,Stockton,0,4,4
+1176,2019,April,California,Moreno Valley,0,4,4
+1177,2019,April,Illinois,Carbondale,0,4,4
+1178,2019,April,Maryland,Baltimore,1,3,4
+1179,2019,April,California,Los Angeles,1,4,5
+1180,2019,April,Arizona,Phoenix,3,2,5
+1181,2019,April,Missouri,Kansas City,1,3,4
+1182,2019,April,North Carolina,Winston Salem (Winston-salem),0,7,7
+1183,2019,April,Indiana,Indianapolis,2,2,4
+1184,2019,April,Delaware,Wilmington,0,6,6
+1185,2019,April,Louisiana,Shreveport,0,4,4
+1186,2019,April,Florida,Tallahassee,0,4,4
+1187,2019,April,Illinois,Chicago,0,6,6
+1188,2019,April,Florida,Panama City,1,3,4
+1189,2019,April,Georgia,Stockbridge,3,2,5
+1190,2019,April,Mississippi,Hermanville,0,4,4
+1191,2019,April,Kentucky,Covington,0,5,5
+1192,2019,March,Georgia,Atlanta,1,4,5
+1193,2019,March,South Carolina,North Charleston,0,7,7
+1194,2019,March,Illinois,Chicago,1,4,5
+1195,2019,March,Maryland,Baltimore,0,4,4
+1196,2019,March,Nevada,North Las Vegas,0,5,5
+1197,2019,March,California,San Francisco,1,5,6
+1198,2019,March,Arizona,Phoenix,0,7,7
+1199,2019,March,Arizona,Phoenix,2,4,6
+1200,2019,March,Georgia,Augusta,0,4,4
+1201,2019,March,Georgia,Rochelle,1,3,4
+1202,2019,March,Nevada,Las Vegas,0,4,4
+1203,2019,March,New Jersey,Camden,1,3,4
+1204,2019,March,Alabama,Mobile,2,4,6
+1205,2019,March,Montana,Missoula,1,3,4
+1206,2019,March,New Jersey,Paterson,0,4,4
+1207,2019,March,Louisiana,Shreveport,0,4,4
+1208,2019,March,Colorado,Denver,1,4,5
+1209,2019,March,California,Oakland,0,4,4
+1210,2019,March,Illinois,Chicago,0,6,6
+1211,2019,March,Arkansas,Pine Bluff,1,4,5
+1212,2019,February,California,Oakland,1,3,4
+1213,2019,February,Alabama,Birmingham,2,2,4
+1214,2019,February,Maryland,Baltimore,1,4,5
+1215,2019,February,Kentucky,Elizabethtown,2,2,4
+1216,2019,February,Texas,Houston,2,2,4
+1217,2019,February,Tennessee,Covington,0,4,4
+1218,2019,February,Texas,Henderson,2,2,4
+1219,2019,February,Indiana,Evansville,0,5,5
+1220,2019,February,Louisiana,New Orleans,1,5,6
+1221,2019,February,Mississippi,Clinton,5,0,5
+1222,2019,February,Illinois,Aurora,6,6,12
+1223,2019,February,Texas,Livingston,5,0,5
+1224,2019,February,Virginia,Petersburg,0,4,4
+1225,2019,February,New York,Brooklyn,1,3,4
+1226,2019,February,Texas,San Antonio,2,2,4
+1227,2019,February,District of Columbia,Washington,0,5,5
+1228,2019,February,Louisiana,Baton Rouge,0,4,4
+1229,2019,February,Illinois,Chicago,2,5,7
+1230,2019,February,California,Palm Springs,4,0,4
+1231,2019,February,California,San Diego,0,4,4
+1232,2019,January,Texas,Houston,2,5,7
+1233,2019,January,Alabama,Birmingham,0,5,5
+1234,2019,January,Georgia,Albany,0,4,4
+1235,2019,January,Louisiana,Gonzales,5,0,5
+1236,2019,January,Indiana,Indianapolis,0,5,5
+1237,2019,January,New Jersey,Newark,1,3,4
+1238,2019,January,Pennsylvania,State College,4,1,5
+1239,2019,January,Georgia,Rockmart,4,1,5
+1240,2019,January,Florida,Sebring,5,0,5
+1241,2019,January,Florida,Miami,0,4,4
+1242,2019,January,Pennsylvania,Lebanon,0,4,4
+1243,2019,January,South Carolina,Gaffney,1,4,5
+1244,2019,January,Illinois,Chicago,0,4,4
+1245,2019,January,Florida,Jacksonville,3,2,5
+1246,2019,January,Texas,Houston,3,2,5
+1247,2019,January,Kentucky,Owensboro,3,1,4
+1248,2019,January,Florida,Jacksonville,1,5,6
+1249,2019,January,California,Palmdale,3,1,4
+1250,2019,January,Arkansas,Little Rock,1,4,5
+1251,2019,January,Arizona,Phoenix,1,5,6
+1252,2019,January,New Mexico,Roswell,0,4,4
+1253,2019,January,Virginia,Hurt,3,2,5
+1254,2019,January,California,Torrance,3,4,7
+1255,2019,January,Arizona,Yuma,1,3,4
+1256,2019,January,Arkansas,Jonesboro,1,3,4
+1257,2019,January,South Carolina,Columbia,0,5,5
+1258,2019,January,Florida,Tallahassee,0,5,5
+1259,2018,December,Ohio,Cleveland,3,2,5
+1260,2018,December,Ohio,Lima,1,3,4
+1261,2018,December,Missouri,Saint Charles,4,1,5
+1262,2018,December,Louisiana,Lutcher,2,2,4
+1263,2018,December,Missouri,Springfield,1,6,7
+1264,2018,December,Nevada,Las Vegas,0,4,4
+1265,2018,December,Maryland,Baltimore,0,5,5
+1266,2018,December,Florida,Miami,0,5,5
+1267,2018,December,Colorado,Colorado Springs,1,3,4
+1268,2018,December,Pennsylvania,Philadelphia,0,4,4
+1269,2018,December,Louisiana,Natchitoches,1,3,4
+1270,2018,December,Wisconsin,Madison,0,4,4
+1271,2018,December,California,Inglewood,0,5,5
+1272,2018,December,New York,Corona (Queens),0,5,5
+1273,2018,December,Florida,Miami,0,5,5
+1274,2018,November,Tennessee,Powell,0,4,4
+1275,2018,November,Alabama,Demopolis,2,2,4
+1276,2018,November,California,Oakland,0,4,4
+1277,2018,November,Texas,Houston,1,3,4
+1278,2018,November,Florida,Miami,2,5,7
+1279,2018,November,Indiana,Fort Wayne,3,2,5
+1280,2018,November,Missouri,Saint Louis,0,4,4
+1281,2018,November,Colorado,Denver,1,4,5
+1282,2018,November,Pennsylvania,Philadelphia,4,0,4
+1283,2018,November,California,Los Angeles (Watts),1,4,5
+1284,2018,November,Arkansas,Little Rock,3,1,4
+1285,2018,November,Louisiana,Baton Rouge,3,1,4
+1286,2018,November,New Mexico,Gallup,4,1,5
+1287,2018,November,North Carolina,Dunn,3,1,4
+1288,2018,November,Arizona,Globe,3,1,4
+1289,2018,November,California,Thousand Oaks,13,2,15
+1290,2018,November,New York,Watertown,0,5,5
+1291,2018,November,California,Long Beach (North Long Beach),0,4,4
+1292,2018,November,Florida,Tallahassee,3,4,7
+1293,2018,November,Minnesota,Minneapolis,0,5,5
+1294,2018,November,Missouri,Springfield,3,2,5
+1295,2018,October,Michigan,Detroit,1,3,4
+1296,2018,October,California,Vallejo,2,3,5
+1297,2018,October,California,Los Angeles,0,5,5
+1298,2018,October,California,Riverside,0,7,7
+1299,2018,October,Arkansas,El Dorado,2,2,4
+1300,2018,October,Tennessee,Memphis,0,5,5
+1301,2018,October,Pennsylvania,Pittsburgh,11,7,18
+1302,2018,October,New Jersey,Jersey City,1,3,4
+1303,2018,October,Illinois,Chicago,0,5,5
+1304,2018,October,Illinois,Chicago,0,6,6
+1305,2018,October,Florida,Jacksonville,1,5,6
+1306,2018,October,Washington,Lakewood,1,3,4
+1307,2018,October,Georgia,Atlanta,0,4,4
+1308,2018,October,Tennessee,Columbia,5,0,5
+1309,2018,October,Texas,Fort Worth,0,4,4
+1310,2018,October,Nevada,Las Vegas,3,1,4
+1311,2018,October,California,Palo Alto (East Palo Alto),2,2,4
+1312,2018,October,Texas,Taft,4,1,5
+1313,2018,October,Missouri,Saint Louis,0,4,4
+1314,2018,October,South Carolina,Spartanburg,0,6,6
+1315,2018,October,Nevada,Las Vegas,0,4,4
+1316,2018,October,Alabama,Birmingham,0,4,4
+1317,2018,October,Oklahoma,Tulsa,0,4,4
+1318,2018,October,Texas,Houston,1,3,4
+1319,2018,October,California,Oakland,0,6,6
+1320,2018,October,Georgia,Swainsboro,0,4,4
+1321,2018,October,New Mexico,Espanola (Española),1,3,4
+1322,2018,October,South Carolina,Florence,2,6,8
+1323,2018,October,Pennsylvania,Philadelphia,1,4,5
+1324,2018,October,Illinois,Chicago,2,2,4
+1325,2018,September,California,Compton,1,3,4
+1326,2018,September,Florida,Orlando,1,4,5
+1327,2018,September,Pennsylvania,Philadelphia,2,2,4
+1328,2018,September,Tennessee,Memphis,3,2,5
+1329,2018,September,California,Bakersfield,1,4,5
+1330,2018,September,California,Baldwin Park,0,4,4
+1331,2018,September,New York,Hempstead,0,4,4
+1332,2018,September,District of Columbia,Washington,0,4,4
+1333,2018,September,Maryland,Aberdeen,4,3,7
+1334,2018,September,New York,Syracuse,0,5,5
+1335,2018,September,Wisconsin,Middleton,1,4,5
+1336,2018,September,Pennsylvania,Masontown,1,4,5
+1337,2018,September,Illinois,Chicago,0,4,4
+1338,2018,September,Louisiana,New Orleans (Algiers),0,4,4
+1339,2018,September,Tennessee,Memphis,0,4,4
+1340,2018,September,Maryland,Silver Spring,4,1,5
+1341,2018,September,Wisconsin,Milwaukee,0,4,4
+1342,2018,September,California,Bakersfield,6,0,6
+1343,2018,September,Illinois,Chicago,0,4,4
+1344,2018,September,Tennessee,Memphis,0,5,5
+1345,2018,September,Illinois,Elgin,1,3,4
+1346,2018,September,Alabama,Auburn,1,4,5
+1347,2018,September,Florida,Jacksonville,0,4,4
+1348,2018,September,Minnesota,Minneapolis,1,3,4
+1349,2018,September,Ohio,Cincinnati,4,2,6
+1350,2018,September,Georgia,Albany,0,4,4
+1351,2018,September,Texas,San Antonio,0,4,4
+1352,2018,September,New Jersey,Paterson,2,2,4
+1353,2018,September,Alabama,Birmingham,0,7,7
+1354,2018,September,Arkansas,Fort Smith,0,4,4
+1355,2018,September,California,San Bernardino,0,8,8
+1356,2018,September,New Jersey,Trenton,0,4,4
+1357,2018,September,Florida,Fort Lauderdale (Lauderhill),1,3,4
+1358,2018,September,Ohio,Cleveland,1,7,8
+1359,2018,August,Colorado,Aurora,2,3,5
+1360,2018,August,Arkansas,Pine Bluff,1,3,4
+1361,2018,August,Florida,Jacksonville,3,9,12
+1362,2018,August,Virginia,Richmond,0,5,5
+1363,2018,August,Tennessee,Nashville,1,4,5
+1364,2018,August,Pennsylvania,Philadelphia,0,4,4
+1365,2018,August,Maryland,Baltimore,0,4,4
+1366,2018,August,Missouri,Saint Louis,0,4,4
+1367,2018,August,Tennessee,Memphis,0,4,4
+1368,2018,August,Tennessee,Jackson,1,4,5
+1369,2018,August,Ohio,Cleveland,1,3,4
+1370,2018,August,Illinois,Chicago,0,5,5
+1371,2018,August,New York,Bronx,0,4,4
+1372,2018,August,Illinois,Chicago,0,7,7
+1373,2018,August,South Carolina,Greenwood,0,5,5
+1374,2018,August,Pennsylvania,Wyncote,0,5,5
+1375,2018,August,California,Clearlake,4,1,5
+1376,2018,August,Pennsylvania,Pittsburgh (East Liberty),0,4,4
+1377,2018,August,California,San Francisco,1,4,5
+1378,2018,August,Colorado,Thornton,1,3,4
+1379,2018,August,Ohio,Columbus,0,4,4
+1380,2018,August,Missouri,Saint Louis,0,4,4
+1381,2018,August,Michigan,Detroit,0,4,4
+1382,2018,August,New Jersey,Paterson,0,4,4
+1383,2018,August,Pennsylvania,Philadelphia,2,4,6
+1384,2018,August,Illinois,Chicago,1,4,5
+1385,2018,August,Illinois,Chicago,1,5,6
+1386,2018,August,Illinois,Chicago,0,8,8
+1387,2018,August,Illinois,Chicago,0,4,4
+1388,2018,August,Illinois,Chicago,0,4,4
+1389,2018,August,Nevada,Las Vegas,0,6,6
+1390,2018,August,Missouri,Kansas City,0,6,6
+1391,2018,August,Illinois,Chicago,1,3,4
+1392,2018,August,Wisconsin,Milwaukee,0,4,4
+1393,2018,July,California,Gardena,2,3,5
+1394,2018,July,Georgia,Savannah,0,4,4
+1395,2018,July,Illinois,Chicago,0,4,4
+1396,2018,July,Pennsylvania,York,0,4,4
+1397,2018,July,Arizona,Phoenix,1,4,5
+1398,2018,July,Michigan,Lansing,0,4,4
+1399,2018,July,Louisiana,New Orleans,3,7,10
+1400,2018,July,California,Los Angeles,2,4,6
+1401,2018,July,Texas,Robstown,5,0,5
+1402,2018,July,Illinois,Chicago,0,4,4
+1403,2018,July,Ohio,Cleveland,1,6,7
+1404,2018,July,California,Oakland,2,2,4
+1405,2018,July,Texas,Dallas,0,6,6
+1406,2018,July,Louisiana,New Orleans,0,4,4
+1407,2018,July,Illinois,Chicago,0,5,5
+1408,2018,July,Maryland,Baltimore,0,4,4
+1409,2018,July,Illinois,Chicago,2,5,7
+1410,2018,July,Washington,Sunnyside,1,4,5
+1411,2018,July,New Jersey,Elizabeth,0,4,4
+1412,2018,July,Oklahoma,Oklahoma City,0,4,4
+1413,2018,July,Florida,Palm Beach Gardens (Riviera Beach),2,4,6
+1414,2018,July,District of Columbia,Washington,1,4,5
+1415,2018,July,Pennsylvania,Philadelphia,1,4,5
+1416,2018,July,Colorado,Denver,0,4,4
+1417,2018,July,Tennessee,Chattanooga,0,5,5
+1418,2018,July,Maryland,Fort Washington,0,4,4
+1419,2018,July,Virginia,Richmond,1,3,4
+1420,2018,July,Tennessee,Memphis,0,5,5
+1421,2018,July,Texas,Houston,0,4,4
+1422,2018,July,Florida,Reddick,0,4,4
+1423,2018,July,Florida,Orlando,1,4,5
+1424,2018,July,Delaware,Wilmington,5,0,5
+1425,2018,July,Alabama,Brandon,0,6,6
+1426,2018,July,Tennessee,Memphis,0,4,4
+1427,2018,July,Alabama,Wetumpka,3,2,5
+1428,2018,July,New York,Brooklyn,0,4,4
+1429,2018,July,New York,Albany,0,4,4
+1430,2018,July,California,Los Angeles,3,3,6
+1431,2018,July,Virginia,Virginia Beach,0,6,6
+1432,2018,July,Ohio,Lima,1,5,6
+1433,2018,July,Georgia,Atlanta,1,3,4
+1434,2018,July,Missouri,Saint Louis,1,5,6
+1435,2018,July,District of Columbia,Washington,0,4,4
+1436,2018,July,New York,Buffalo,2,2,4
+1437,2018,July,Illinois,Chicago,0,6,6
+1438,2018,June,Maryland,Baltimore,0,6,6
+1439,2018,June,Georgia,Ashburn,1,6,7
+1440,2018,June,New Jersey,Jersey City,0,5,5
+1441,2018,June,Maryland,Annapolis,5,0,5
+1442,2018,June,California,Oakland,1,3,4
+1443,2018,June,Texas,San Antonio,0,4,4
+1444,2018,June,Connecticut,Hartford,0,4,4
+1445,2018,June,Illinois,Chicago,0,6,6
+1446,2018,June,North Carolina,Sanford,1,6,7
+1447,2018,June,Florida,Punta Gorda,0,4,4
+1448,2018,June,Florida,Indiantown,0,4,4
+1449,2018,June,Florida,Palm Beach Gardens (Riviera Beach),1,3,4
+1450,2018,June,Indiana,Gary,1,3,4
+1451,2018,June,Ohio,Sandusky,0,5,5
+1452,2018,June,Kansas,Wichita,0,4,4
+1453,2018,June,Illinois,Chicago,1,4,5
+1454,2018,June,Tennessee,Covington,0,4,4
+1455,2018,June,Pennsylvania,Homestead (Munhall),1,3,4
+1456,2018,June,California,San Bernardino,1,3,4
+1457,2018,June,Louisiana,Morganza,0,4,4
+1458,2018,June,Illinois,Chicago,0,4,4
+1459,2018,June,California,Modesto,0,5,5
+1460,2018,June,Alabama,Huntsville,0,4,4
+1461,2018,June,Illinois,Bloomington,3,1,4
+1462,2018,June,Illinois,Chicago,2,3,5
+1463,2018,June,North Carolina,Charlotte,0,4,4
+1464,2018,June,New Jersey,Trenton,1,19,20
+1465,2018,June,Georgia,Macon,1,3,4
+1466,2018,June,Illinois,Chicago,0,4,4
+1467,2018,June,California,Union City,0,5,5
+1468,2018,June,New York,Buffalo,1,4,5
+1469,2018,June,California,Tracy,1,4,5
+1470,2018,June,Colorado,Westminster,1,3,4
+1471,2018,June,Pennsylvania,Philadelphia,0,4,4
+1472,2018,June,New York,Bronx,0,4,4
+1473,2018,June,Alabama,Montgomery,0,4,4
+1474,2018,June,Florida,Orlando,6,0,6
+1475,2018,June,California,Valley Village,0,6,6
+1476,2018,June,Indiana,Indianapolis (Lawrence),1,4,5
+1477,2018,June,Illinois,Aurora,0,7,7
+1478,2018,June,Florida,Bradenton,1,5,6
+1479,2018,June,Illinois,Chicago,1,5,6
+1480,2018,June,Illinois,Bloomington,2,2,4
+1481,2018,June,North Carolina,Kannapolis,0,4,4
+1482,2018,June,Massachusetts,Boston,0,4,4
+1483,2018,June,Pennsylvania,Philadelphia,1,4,5
+1484,2018,June,Florida,Jacksonville,3,1,4
+1485,2018,June,Texas,Dallas,0,5,5
+1486,2018,June,Illinois,Chicago,1,3,4
+1487,2018,June,Nebraska,Omaha,1,6,7
+1488,2018,June,New York,Buffalo,0,5,5
+1489,2018,May,South Carolina,Timmonsville,3,2,5
+1490,2018,May,Louisiana,Shreveport,0,4,4
+1491,2018,May,Colorado,Aurora,1,3,4
+1492,2018,May,Ohio,Cincinnati,0,4,4
+1493,2018,May,Indiana,Anderson,0,4,4
+1494,2018,May,Mississippi,Hazlehurst,1,7,8
+1495,2018,May,Texas,Santa Fe,10,13,23
+1496,2018,May,Texas,Ponder,5,1,6
+1497,2018,May,Maryland,Baltimore,0,4,4
+1498,2018,May,California,Los Angeles,2,2,4
+1499,2018,May,California,Stockton,3,2,5
+1500,2018,May,Mississippi,Byhalia,0,4,4
+1501,2018,May,Nebraska,Omaha,0,6,6
+1502,2018,May,New Jersey,Paulsboro,0,4,4
+1503,2018,May,Missouri,Saint Louis,0,4,4
+1504,2018,May,Oklahoma,Talihina,1,4,5
+1505,2018,May,Missouri,Saint Louis,0,4,4
+1506,2018,May,Nebraska,Omaha,0,4,4
+1507,2018,May,California,San Diego,0,5,5
+1508,2018,May,Oklahoma,Stillwater,0,4,4
+1509,2018,May,Tennessee,Memphis,2,4,6
+1510,2018,May,Georgia,Columbus,0,5,5
+1511,2018,May,North Carolina,Henderson,0,4,4
+1512,2018,May,Illinois,Chicago Heights,0,4,4
+1513,2018,May,Illinois,Chicago,1,4,5
+1514,2018,May,Minnesota,Minneapolis,0,5,5
+1515,2018,May,New York,Brooklyn,1,4,5
+1516,2018,May,Louisiana,New Orleans,0,5,5
+1517,2018,April,Florida,Pompano Beach,0,4,4
+1518,2018,April,District of Columbia,Washington,0,4,4
+1519,2018,April,Tennessee,Wartburg,0,4,4
+1520,2018,April,Washington,Seattle (Skyway),2,2,4
+1521,2018,April,North Carolina,Monroe,1,3,4
+1522,2018,April,Florida,West Palm Beach,1,3,4
+1523,2018,April,North Carolina,Maxton,0,5,5
+1524,2018,April,Arkansas,Pine Bluff,0,4,4
+1525,2018,April,Missouri,Saint Louis,3,1,4
+1526,2018,April,Michigan,Flint,0,4,4
+1527,2018,April,Tennessee,Antioch,4,3,7
+1528,2018,April,Louisiana,New Orleans,2,4,6
+1529,2018,April,Pennsylvania,Philadelphia,2,2,4
+1530,2018,April,California,San Francisco,1,5,6
+1531,2018,April,North Carolina,Asheville,4,3,7
+1532,2018,April,Louisiana,Shreveport,0,6,6
+1533,2018,April,California,Vallejo,0,4,4
+1534,2018,April,North Carolina,Hickory,1,3,4
+1535,2018,April,Florida,Miami,2,2,4
+1536,2018,April,Florida,Jacksonville,0,4,4
+1537,2018,April,Virginia,Virginia Beach,1,3,4
+1538,2018,April,Louisiana,New Orleans,2,2,4
+1539,2018,April,Texas,Houston,1,3,4
+1540,2018,April,Alabama,Mobile,1,4,5
+1541,2018,April,Michigan,Saginaw,0,5,5
+1542,2018,March,New Jersey,Asbury Park,0,5,5
+1543,2018,March,Texas,Plano,1,3,4
+1544,2018,March,New Jersey,Camden,0,4,4
+1545,2018,March,Utah,Salt Lake City (West Valley City),0,4,4
+1546,2018,March,California,San Francisco,1,5,6
+1547,2018,March,Kentucky,Louisville,0,7,7
+1548,2018,March,Illinois,Harvey,0,4,4
+1549,2018,March,Florida,Macclenny,0,4,4
+1550,2018,March,California,Modesto,0,4,4
+1551,2018,March,Indiana,South Bend,0,6,6
+1552,2018,March,Illinois,Champaign,1,3,4
+1553,2018,March,Michigan,Saginaw,1,4,5
+1554,2018,March,North Carolina,Wadesboro,3,1,4
+1555,2018,March,Alabama,Hurtsboro,2,2,4
+1556,2018,March,Illinois,Rockford,1,4,5
+1557,2018,March,New York,Brooklyn,1,3,4
+1558,2018,March,Florida,Miami,0,4,4
+1559,2018,February,Connecticut,Bridgeport,0,4,4
+1560,2018,February,Michigan,Detroit,5,0,5
+1561,2018,February,Florida,Palm Beach Gardens (Riviera Beach),1,3,4
+1562,2018,February,Texas,San Antonio,0,5,5
+1563,2018,February,Kansas,Kansas City,1,7,8
+1564,2018,February,Tennessee,Memphis,0,5,5
+1565,2018,February,Oklahoma,Oklahoma City,1,3,4
+1567,2018,February,Louisiana,New Orleans,2,3,5
+1568,2018,February,Michigan,Detroit,4,3,7
+1569,2018,February,Kentucky,Paintsville,5,0,5
+1570,2018,February,Florida,Lake Worth (Lantana),3,3,6
+1571,2018,February,Colorado,Colorado Springs,2,4,6
+1572,2018,February,Ohio,Cleveland (Garfield Heights),1,5,6
+1573,2018,January,Missouri,Saint Louis,0,4,4
+1574,2018,January,Pennsylvania,Melcroft,5,0,5
+1575,2018,January,Indiana,Indianapolis,2,3,5
+1576,2018,January,Pennsylvania,Reading,4,0,4
+1577,2018,January,Kentucky,Bowling Green,0,4,4
+1578,2018,January,California,Los Angeles,0,5,5
+1579,2018,January,District of Columbia,Washington,0,4,4
+1580,2018,January,Kentucky,Benton,2,14,16
+1581,2018,January,Pennsylvania,Philadelphia,0,4,4
+1582,2018,January,Florida,Orlando,0,4,4
+1583,2018,January,Illinois,Chicago,0,4,4
+1584,2018,January,District of Columbia,Washington,1,3,4
+1585,2018,January,Florida,Alachua,0,5,5
+1586,2018,January,Alabama,Eutaw,1,4,5
+1587,2018,January,Alabama,Madison,0,4,4
+1588,2018,January,Tennessee,Nashville,3,2,5
+1589,2018,January,Missouri,Saint Robert (St Robert),2,2,4
+1590,2018,January,Alabama,Union Springs,1,5,6
+1591,2018,January,Florida,Plantation,0,4,4
+1592,2018,January,Mississippi,Hattiesburg,0,6,6
+1593,2018,January,Arkansas,Brinkley,1,3,4
+1594,2018,January,Alabama,Huntsville,1,3,4
+1595,2017,December,Colorado,Littleton (Highlands Ranch),2,6,8
+1596,2017,December,Illinois,Chicago,0,4,4
+1597,2017,December,New Jersey,Long Branch,4,0,4
+1598,2017,December,Nevada,Las Vegas,2,2,4
+1599,2017,December,Florida,Miami,0,5,5
+1600,2017,December,Mississippi,Vicksburg,0,5,5
+1601,2017,December,Alabama,Troy,1,4,5
+1602,2017,December,Louisiana,Eunice,1,3,4
+1603,2017,December,Alabama,Birmingham,0,4,4
+1604,2017,December,Pennsylvania,Philadelphia,1,3,4
+1605,2017,December,Louisiana,Lafayette,0,4,4
+1606,2017,December,Mississippi,Mc Cool (Mccool),0,4,4
+1607,2017,December,California,Pacoima,0,5,5
+1608,2017,December,Ohio,Columbus,1,3,4
+1609,2017,December,Kentucky,Louisville,0,4,4
+1610,2017,December,Texas,Garland,0,4,4
+1611,2017,December,Massachusetts,Boston,0,4,4
+1612,2017,December,Illinois,Chicago,0,4,4
+1613,2017,December,Pennsylvania,Pittsburgh,2,2,4
+1614,2017,December,Tennessee,Memphis,1,3,4
+1615,2017,December,Michigan,Detroit,0,4,4
+1616,2017,November,Michigan,Detroit,1,4,5
+1617,2017,November,Mississippi,Brookhaven,1,6,7
+1618,2017,November,Ohio,Cleveland,1,5,6
+1619,2017,November,Minnesota,Minneapolis,0,4,4
+1620,2017,November,Louisiana,New Iberia,0,4,4
+1621,2017,November,Georgia,Columbus,0,7,7
+1622,2017,November,California,Richmond,2,2,4
+1623,2017,November,California,Corning,6,12,18
+1624,2017,November,Indiana,Gary,0,7,7
+1625,2017,November,California,Fresno,0,5,5
+1626,2017,November,Georgia,Atlanta,2,2,4
+1627,2017,November,Texas,Dallas,1,3,4
+1628,2017,November,North Carolina,Fayetteville,1,5,6
+1629,2017,November,Louisiana,New Orleans,1,5,6
+1630,2017,November,Ohio,Dayton (Trotwood),0,4,4
+1631,2017,November,Pennsylvania,Philadelphia,0,4,4
+1633,2017,November,Texas,Austin,0,4,4
+1634,2017,November,Ohio,Youngstown,0,4,4
+1635,2017,November,California,Santa Monica,1,3,4
+1636,2017,November,Minnesota,Minneapolis,0,4,4
+1637,2017,November,California,Gardena,0,4,4
+1638,2017,November,New York,Buffalo,0,4,4
+1639,2017,November,Louisiana,Lacombe,1,4,5
+1640,2017,October,Texas,Austin,1,3,4
+1641,2017,October,Ohio,Toledo,0,4,4
+1642,2017,October,Virginia,Petersburg,1,3,4
+1643,2017,October,Kentucky,Louisville,0,6,6
+1644,2017,October,California,San Francisco,0,4,4
+1645,2017,October,California,Clearlake Oaks,2,3,5
+1646,2017,October,Connecticut,Hartford,0,4,4
+1647,2017,October,Alabama,Lanett,2,7,9
+1648,2017,October,Florida,Tampa,0,4,4
+1649,2017,October,Florida,Jacksonville,0,4,4
+1650,2017,October,Tennessee,Nashville,0,4,4
+1651,2017,October,Pennsylvania,Chester,0,4,4
+1652,2017,October,Maryland,Edgewood,3,3,6
+1653,2017,October,New York,Brooklyn,0,4,4
+1654,2017,October,Mississippi,Meridian,1,3,4
+1655,2017,October,Texas,Houston,2,2,4
+1656,2017,October,Arizona,Phoenix,1,3,4
+1657,2017,October,California,Aliso Viejo,2,2,4
+1658,2017,October,Ohio,Pedro,4,0,4
+1659,2017,October,California,San Francisco,0,4,4
+1660,2017,October,Texas,Houston,0,5,5
+1661,2017,October,Arizona,Phoenix,0,4,4
+1662,2017,October,Illinois,Chicago,0,5,5
+1663,2017,October,Arizona,Casa Grande,4,0,4
+1664,2017,October,Florida,Miami,0,4,4
+1665,2017,October,Kansas,Lawrence,3,2,5
+1667,2017,September,Tennessee,Memphis,1,3,4
+1668,2017,September,Louisiana,New Orleans,1,3,4
+1669,2017,September,Pennsylvania,Philadelphia,1,3,4
+1670,2017,September,Tennessee,Memphis,0,4,4
+1671,2017,September,Maryland,Baltimore,2,2,4
+1672,2017,September,Maryland,Baltimore,0,4,4
+1673,2017,September,Tennessee,Antioch,1,8,9
+1674,2017,September,New York,Syracuse,0,4,4
+1675,2017,September,Pennsylvania,Philadelphia,0,4,4
+1676,2017,September,New Jersey,Mays Landing,1,3,4
+1677,2017,September,California,Bakersfield,1,4,5
+1678,2017,September,Illinois,Danville,0,5,5
+1679,2017,September,Connecticut,Hartford,2,2,4
+1680,2017,September,Indiana,Gary,0,5,5
+1681,2017,September,Michigan,Detroit,1,3,4
+1682,2017,September,Virginia,Petersburg,1,4,5
+1683,2017,September,South Carolina,Columbia,0,8,8
+1684,2017,September,Illinois,Chicago,4,0,4
+1685,2017,September,Tennessee,Memphis,1,5,6
+1686,2017,September,Washington,Rockford,1,3,4
+1687,2017,September,Pennsylvania,York,0,4,4
+1688,2017,September,Pennsylvania,Philadelphia,0,4,4
+1689,2017,September,Texas,Plano,9,1,10
+1690,2017,September,Louisiana,New Orleans,1,3,4
+1691,2017,September,Alabama,Selma,0,4,4
+1692,2017,September,Illinois,Chicago,0,4,4
+1693,2017,September,Illinois,Bellwood,0,4,4
+1694,2017,September,California,Inglewood,2,3,5
+1695,2017,September,Kentucky,Louisville,0,4,4
+1696,2017,September,Illinois,Chicago,1,3,4
+1697,2017,August,New Mexico,Clovis,2,4,6
+1698,2017,August,California,Sacramento,1,4,5
+1699,2017,August,Indiana,Evansville,1,3,4
+1700,2017,August,Florida,Gainesville,0,4,4
+1701,2017,August,Missouri,Saint Louis,4,0,4
+1702,2017,August,Illinois,Chicago,0,4,4
+1703,2017,August,New Jersey,Newark,0,4,4
+1704,2017,August,North Carolina,Whitakers,4,0,4
+1705,2017,August,New Jersey,Newark,1,3,4
+1706,2017,August,Maryland,Baltimore,1,3,4
+1707,2017,August,Tennessee,Memphis,0,4,4
+1708,2017,August,New York,Brooklyn,0,4,4
+1709,2017,August,Illinois,Chicago,2,5,7
+1710,2017,August,Ohio,Cleveland,1,4,5
+1711,2017,August,New York,Wyandanch,0,4,4
+1712,2017,August,California,North Hollywood,2,2,4
+1713,2017,August,Pennsylvania,Philadelphia,0,5,5
+1714,2017,August,California,Sacramento,0,4,4
+1715,2017,August,Virginia,Suffolk,0,4,4
+1716,2017,August,Missouri,Saint Louis,1,3,4
+1717,2017,August,Illinois,Chicago,1,6,7
+1718,2017,August,New York,Bronx,0,6,6
+1719,2017,August,New York,Bronx,0,4,4
+1720,2017,August,California,Oakland,0,7,7
+1721,2017,August,New Jersey,Lakewood,0,4,4
+1722,2017,August,South Carolina,Allendale,1,3,4
+1723,2017,August,Florida,Tallahassee,1,3,4
+1724,2017,August,Montana,Lodge Grass,3,2,5
+1725,2017,August,District of Columbia,Washington,1,3,4
+1726,2017,August,Maryland,Baltimore,0,4,4
+1727,2017,August,Illinois,Chicago,0,4,4
+1728,2017,August,Washington,Toppenish,0,6,6
+1729,2017,August,California,Fresno,0,7,7
+1730,2017,July,Illinois,Decatur,0,4,4
+1731,2017,July,Texas,El Paso,1,3,4
+1732,2017,July,Virginia,Norfolk,1,5,6
+1733,2017,July,New York,Buffalo,1,4,5
+1734,2017,July,North Carolina,Salisbury,2,3,5
+1735,2017,July,Delaware,Wilmington,0,4,4
+1736,2017,July,Illinois,Chicago,1,4,5
+1737,2017,July,North Carolina,High Point,1,6,7
+1738,2017,July,Florida,Jacksonville,1,3,4
+1739,2017,July,Illinois,Chicago,1,3,4
+1740,2017,July,Louisiana,Baton Rouge,0,4,4
+1741,2017,July,Ohio,Cincinnati,0,5,5
+1742,2017,July,Virginia,Richmond,0,5,5
+1743,2017,July,California,Los Angeles,1,3,4
+1744,2017,July,Wisconsin,Milwaukee,0,4,4
+1745,2017,July,New Jersey,Trenton,1,3,4
+1746,2017,July,Arizona,El Mirage,0,4,4
+1747,2017,July,Pennsylvania,Philadelphia,1,3,4
+1748,2017,July,Illinois,Chicago,0,4,4
+1749,2017,July,Virginia,Lawrenceville,0,7,7
+1750,2017,July,Illinois,Alton,0,4,4
+1751,2017,July,Ohio,Cincinnati,1,8,9
+1752,2017,July,Mississippi,Meridian,0,4,4
+1753,2017,July,Georgia,Savannah,0,4,4
+1754,2017,July,Illinois,Chicago (Roseland),2,2,4
+1755,2017,July,Maine,Madison,4,1,5
+1756,2017,July,Florida,Orlando (Pine Castle),0,4,4
+1757,2017,July,Virginia,Hampton,1,4,5
+1758,2017,July,North Carolina,Raleigh,1,3,4
+1759,2017,July,Alabama,Prattville,3,1,4
+1760,2017,July,Michigan,Pontiac,1,3,4
+1761,2017,July,New Jersey,Jersey City,0,4,4
+1762,2017,July,South Carolina,Greenwood,0,4,4
+1764,2017,July,Illinois,Momence,0,4,4
+1765,2017,July,New Jersey,Newark,2,2,4
+1766,2017,July,California,Oakland,0,4,4
+1767,2017,June,New York,Bronx,2,6,8
+1768,2017,June,Illinois,Chicago,0,5,5
+1769,2017,June,District of Columbia,Washington,0,4,4
+1770,2017,June,Missouri,Saint Louis,1,3,4
+1771,2017,June,Florida,Fort Lauderdale,1,4,5
+1772,2017,June,New York,New York (Manhattan),0,5,5
+1773,2017,June,New Jersey,Willingboro,0,4,4
+1774,2017,June,Georgia,Atlanta,1,6,7
+1775,2017,June,Missouri,Saint Louis,3,2,5
+1776,2017,June,District of Columbia,Washington,0,4,4
+1777,2017,June,Illinois,Chicago,0,4,4
+1778,2017,June,South Carolina,Myrtle Beach,0,7,7
+1779,2017,June,Illinois,Chicago,0,4,4
+1780,2017,June,Ohio,Columbus,1,4,5
+1781,2017,June,Virginia,Richmond,1,3,4
+1782,2017,June,New Mexico,La Madera,5,0,5
+1783,2017,June,Virginia,Alexandria,1,5,6
+1784,2017,June,Ohio,Canton,0,4,4
+1785,2017,June,California,San Francisco,4,2,6
+1786,2017,June,Maryland,Baltimore,0,4,4
+1787,2017,June,Maryland,Baltimore,2,2,4
+1788,2017,June,Missouri,Saint Louis (University City),0,4,4
+1789,2017,June,Illinois,Chicago,0,9,9
+1790,2017,June,Tennessee,Chattanooga,0,4,4
+1791,2017,June,Texas,Houston,0,4,4
+1792,2017,June,Tennessee,Memphis,0,4,4
+1793,2017,June,Texas,Fort Worth,2,5,7
+1794,2017,June,Louisiana,New Orleans,0,6,6
+1795,2017,June,Utah,Sandy,3,2,5
+1796,2017,June,Florida,Orlando,6,0,6
+1797,2017,June,Missouri,Saint Louis,2,2,4
+1798,2017,June,Louisiana,New Orleans,3,2,5
+1799,2017,June,California,Los Angeles,1,3,4
+1800,2017,June,Texas,Laredo,2,3,5
+1801,2017,June,Missouri,Saint Louis,3,1,4
+1802,2017,May,Ohio,Middletown,1,3,4
+1803,2017,May,Kentucky,Louisville,1,3,4
+1804,2017,May,Alabama,Phenix City,0,12,12
+1805,2017,May,New Jersey,Paterson,1,5,6
+1806,2017,May,Mississippi,Moss Point,0,5,5
+1807,2017,May,New York,New York (Manhattan),0,4,4
+1808,2017,May,District of Columbia,Washington,1,7,8
+1809,2017,May,Mississippi,Bogue Chitto,8,1,9
+1810,2017,May,Florida,Miami,0,4,4
+1811,2017,May,Iowa,Des Moines,1,3,4
+1812,2017,May,Arizona,Mesa,0,4,4
+1813,2017,May,Pennsylvania,Philadelphia,0,10,10
+1814,2017,May,South Carolina,Ruffin,3,1,4
+1815,2017,May,Arkansas,Jonesboro,1,6,7
+1816,2017,May,Illinois,Dolton,0,5,5
+1817,2017,May,Florida,Avon Park,0,5,5
+1818,2017,May,Texas,Fort Worth,0,4,4
+1819,2017,May,New Jersey,Trenton,1,3,4
+1820,2017,May,Kansas,Kansas City,3,1,4
+1821,2017,May,Illinois,Chicago,2,8,10
+1822,2017,May,Michigan,Flint,1,3,4
+1823,2017,May,Florida,Jacksonville,1,3,4
+1824,2017,May,Texas,Dallas,2,3,5
+1825,2017,April,California,San Diego,2,6,8
+1826,2017,April,Kansas,Topeka,4,1,5
+1827,2017,April,Florida,Jacksonville,0,5,5
+1828,2017,April,South Carolina,Loris,1,5,6
+1829,2017,April,California,Los Angeles (Boyle Heights),1,3,4
+1830,2017,April,California,Sacramento,0,5,5
+1831,2017,April,California,Whittier,1,5,6
+1832,2017,April,Maryland,Germantown,1,3,4
+1833,2017,April,California,Compton,0,4,4
+1834,2017,April,Virginia,Virginia Beach,0,4,4
+1835,2017,April,Pennsylvania,Chester,0,4,4
+1836,2017,April,New Jersey,Newark,1,3,4
+1837,2017,April,Florida,Miami,0,4,4
+1838,2017,April,Florida,Palm Bay,2,2,4
+1839,2017,April,Kentucky,Louisville,0,4,4
+1840,2017,April,California,Vallejo,0,4,4
+1841,2017,April,North Carolina,Elizabeth City,0,4,4
+1842,2017,April,Ohio,Columbus,0,9,9
+1843,2017,April,Illinois,Rock Falls,0,4,4
+1844,2017,April,Pennsylvania,Philadelphia,0,4,4
+1845,2017,April,Indiana,Indianapolis,0,4,4
+1846,2017,April,Alabama,Birmingham,0,6,6
+1847,2017,April,Illinois,Harvey,0,4,4
+1848,2017,April,California,Banning,0,4,4
+1849,2017,April,Georgia,Atlanta,1,3,4
+1850,2017,April,Texas,San Antonio,1,3,4
+1851,2017,April,Indiana,Fort Wayne,1,3,4
+1852,2017,April,North Carolina,Hickory,3,1,4
+1853,2017,April,Texas,Houston,5,0,5
+1854,2017,April,Minnesota,Saint Paul,4,1,5
+1855,2017,April,Illinois,Chicago,1,5,6
+1856,2017,April,Louisiana,Lake Charles,1,3,4
+1857,2017,April,Pennsylvania,Philadelphia,3,1,4
+1858,2017,April,Texas,Lubbock,0,7,7
+1859,2017,April,Illinois,Chicago,2,4,6
+1860,2017,April,Iowa,Des Moines,0,5,5
+1861,2017,April,California,Pittsburg,0,5,5
+1862,2017,April,Florida,Tampa,1,4,5
+1863,2017,April,Oklahoma,Oklahoma City,2,3,5
+1864,2017,March,Illinois,Chicago,4,0,4
+1865,2017,March,Florida,Sanford,2,4,6
+1866,2017,March,Ohio,Cleveland,2,2,4
+1867,2017,March,Texas,Houston,2,4,6
+1868,2017,March,Ohio,Cincinnati,2,15,17
+1869,2017,March,Tennessee,Knoxville,1,4,5
+1870,2017,March,Michigan,Detroit,1,3,4
+1871,2017,March,Ohio,Cleveland,2,2,4
+1872,2017,March,California,Fresno,1,4,5
+1873,2017,March,Missouri,Saint Louis,1,6,7
+1874,2017,March,Wisconsin,Rothschild,5,0,5
+1875,2017,March,Kentucky,Louisville,1,5,6
+1876,2017,March,Michigan,Detroit,3,2,5
+1877,2017,March,Louisiana,Metairie,3,1,4
+1878,2017,March,Illinois,Chicago,2,2,4
+1879,2017,March,Louisiana,New Orleans (Gentilly),3,1,4
+1880,2017,March,Illinois,Chicago,0,4,4
+1881,2017,March,Georgia,Columbus,0,4,4
+1882,2017,March,Kansas,Topeka,1,4,5
+1883,2017,March,California,Sacramento,0,4,4
+1884,2017,March,Pennsylvania,Philadelphia,0,4,4
+1885,2017,March,California,Riverside,0,5,5
+1886,2017,February,Ohio,Cincinnati,0,6,6
+1887,2017,February,Virginia,Newport News,0,4,4
+1888,2017,February,Indiana,Gary,1,4,5
+1889,2017,February,Ohio,Warren,2,3,5
+1890,2017,February,Florida,Jacksonville,1,4,5
+1891,2017,February,New York,Rochester,0,4,4
+1892,2017,February,Ohio,Cleveland,0,4,4
+1893,2017,February,Mississippi,Toomsuba,4,0,4
+1894,2017,February,Ohio,Cleveland,0,5,5
+1895,2017,February,Virginia,Norfolk,1,3,4
+1896,2017,February,Pennsylvania,Philadelphia,0,4,4
+1897,2017,February,Indiana,South Bend,1,3,4
+1898,2017,February,California,Salinas,0,4,4
+1899,2017,February,Illinois,Chicago,3,2,5
+1900,2017,February,Missouri,Caruthersville,1,6,7
+1901,2017,February,New York,Newburgh,1,3,4
+1902,2017,February,Florida,Greenville,0,5,5
+1903,2017,February,Illinois,Chicago,1,3,4
+1904,2017,February,Tennessee,Savannah,0,4,4
+1905,2017,February,Louisiana,New Orleans,1,5,6
+1906,2017,February,Mississippi,Jackson,4,0,4
+1907,2017,February,Ohio,Cleveland,1,4,5
+1908,2017,February,South Carolina,Columbia,0,4,4
+1909,2017,February,Arkansas,Little Rock,1,4,5
+1910,2017,February,Mississippi,Yazoo City,4,0,4
+1911,2017,January,Tennessee,Memphis,0,4,4
+1912,2017,January,District of Columbia,Washington,0,4,4
+1913,2017,January,Minnesota,Minneapolis (Crystal),0,4,4
+1914,2017,January,Louisiana,Shreveport,1,4,5
+1915,2017,January,Washington,Bremerton,4,0,4
+1916,2017,January,Tennessee,Brownsville,0,10,10
+1917,2017,January,Georgia,Albany,2,3,5
+1918,2017,January,Illinois,Chicago,0,6,6
+1919,2017,January,Texas,Manvel,3,2,5
+1920,2017,January,Illinois,Chicago (Englewood),0,4,4
+1921,2017,January,Georgia,Atlanta,3,1,4
+1922,2017,January,Georgia,Jonesboro,0,6,6
+1923,2017,January,Florida,Boynton Beach,0,5,5
+1924,2017,January,Tennessee,Memphis,2,2,4
+1925,2017,January,Mississippi,Como,1,4,5
+1926,2017,January,California,Fresno,0,4,4
+1927,2017,January,Texas,Houston,0,4,4
+1928,2017,January,Florida,Miami,0,8,8
+1929,2017,January,Colorado,Capulin,3,1,4
+1930,2017,January,Mississippi,Magnolia,1,4,5
+1931,2017,January,Missouri,Kansas City,3,2,5
+1932,2017,January,California,Salinas,2,2,4
+1933,2017,January,New Jersey,Newark,1,3,4
+1934,2017,January,Illinois,Chicago,1,3,4
+1935,2017,January,Michigan,Flint,1,3,4
+1936,2017,January,California,Pasadena,2,2,4
+1937,2017,January,Florida,Fort Lauderdale,5,6,11
+1938,2017,January,California,Fontana,3,1,4
+1939,2017,January,Texas,Allen,0,4,4
+1940,2017,January,Mississippi,Winstonville,0,5,5
+1941,2017,January,Texas,Dallas,1,3,4
+1942,2017,January,Florida,Miami,0,7,7
+1943,2016,December,Georgia,Lenox (El Dorado),2,2,4
+1944,2016,December,Texas,Houston,1,3,4
+1945,2016,December,Ohio,Mansfield,0,5,5
+1946,2016,December,Connecticut,Wallingford,2,3,5
+1947,2016,December,Georgia,Columbus,1,4,5
+1948,2016,December,Illinois,Chicago,3,4,7
+1949,2016,December,Alabama,Ozark,0,4,4
+1950,2016,December,New York,Mount Vernon,1,5,6
+1951,2016,December,North Carolina,Madison,0,7,7
+1952,2016,December,North Carolina,Wilson,4,0,4
+1953,2016,December,Alabama,Birmingham,1,3,4
+1954,2016,December,Illinois,Chicago,0,4,4
+1955,2016,December,Illinois,Chicago (Roseland),5,0,5
+1956,2016,December,North Carolina,Charlotte,0,4,4
+1957,2016,December,Illinois,Chicago,0,4,4
+1958,2016,December,Illinois,Chicago,2,2,4
+1959,2016,December,California,Sacramento,1,3,4
+1960,2016,December,New York,Brooklyn,0,4,4
+1961,2016,December,Florida,Orlando (Pine Hills),1,4,5
+1962,2016,December,Maryland,Baltimore,0,5,5
+1963,2016,December,North Carolina,Rocky Mount,0,4,4
+1964,2016,December,Texas,Channelview,4,0,4
+1965,2016,December,California,Fresno,0,4,4
+1966,2016,December,New Mexico,Albuquerque,4,1,5
+1967,2016,December,California,Los Angeles,0,6,6
+1968,2016,December,New Jersey,Bloomfield,0,6,6
+1969,2016,December,California,Clearlake Oaks,1,3,4
+1970,2016,November,Maryland,Baltimore,2,4,6
+1971,2016,November,Texas,Mission (Palmview),1,3,4
+1972,2016,November,California,Wilmington,0,4,4
+1973,2016,November,California,San Pedro,0,4,4
+1974,2016,November,Louisiana,New Orleans,1,9,10
+1975,2016,November,Missouri,Kansas City,0,7,7
+1976,2016,November,Illinois,Chicago,1,5,6
+1977,2016,November,Louisiana,New Orleans,0,4,4
+1978,2016,November,Kentucky,Louisville,2,4,6
+1979,2016,November,New York,Albany,1,3,4
+1980,2016,November,Mississippi,Olive Branch,0,4,4
+1981,2016,November,Florida,Clewiston,1,4,5
+1982,2016,November,Illinois,Chicago,0,4,4
+1983,2016,November,Tennessee,Dyersburg,1,7,8
+1984,2016,November,Florida,Jacksonville,3,2,5
+1985,2016,November,Texas,San Antonio,0,4,4
+1986,2016,November,California,San Diego,3,2,5
+1987,2016,November,Florida,Orlando,0,4,4
+1988,2016,November,California,Sacramento,1,5,6
+1989,2016,November,Missouri,Kansas City,1,3,4
+1990,2016,November,Connecticut,Bridgeport,0,5,5
+1991,2016,November,Texas,Houston,0,4,4
+1992,2016,November,Texas,Houston,1,3,4
+1993,2016,November,Washington,Seattle,0,5,5
+1994,2016,November,Illinois,Chicago,1,3,4
+1995,2016,November,Tennessee,Memphis,0,4,4
+1996,2016,November,Texas,San Antonio,0,4,4
+1997,2016,November,South Carolina,Myrtle Beach,0,5,5
+1998,2016,November,Florida,Fort Lauderdale (Lauderhill),1,3,4
+1999,2016,November,California,Oakland,0,8,8
+2000,2016,November,Illinois,Chicago,0,5,5
+2001,2016,November,Pennsylvania,Philadelphia,0,4,4
+2002,2016,November,Illinois,Chicago,2,2,4
+2003,2016,November,New Jersey,Orange,2,2,4
+2004,2016,November,Arkansas,Little Rock,1,4,5
+2005,2016,November,Tennessee,Memphis,1,5,6
+2006,2016,October,Louisiana,Shreveport,0,4,4
+2007,2016,October,Ohio,Toledo,0,4,4
+2008,2016,October,Maryland,Capitol Heights,3,3,6
+2009,2016,October,New York,New York (Manhattan),0,4,4
+2010,2016,October,New York,Newburgh,2,5,7
+2011,2016,October,Texas,San Antonio,0,5,5
+2012,2016,October,California,Los Angeles,0,5,5
+2013,2016,October,Ohio,Dayton,1,3,4
+2014,2016,October,California,Riverside,0,4,4
+2015,2016,October,Mississippi,Jackson,0,6,6
+2016,2016,October,Florida,Miami Gardens,0,4,4
+2017,2016,October,Georgia,Jackson,4,0,4
+2018,2016,October,Ohio,Dayton,1,3,4
+2019,2016,October,Virginia,Roanoke,2,3,5
+2020,2016,October,Oklahoma,Wellston,1,5,6
+2021,2016,October,California,Oakland,0,7,7
+2022,2016,October,California,San Francisco,0,4,4
+2023,2016,October,Illinois,Chicago (Englewood),1,4,5
+2024,2016,October,Alabama,Mobile,0,5,5
+2025,2016,October,Illinois,Rockford,1,5,6
+2026,2016,October,California,Los Angeles,4,11,15
+2027,2016,October,Illinois,Chicago,1,6,7
+2028,2016,October,Illinois,Chicago,0,4,4
+2029,2016,October,Michigan,Grand Rapids,1,8,9
+2030,2016,October,California,Sacramento,1,3,4
+2031,2016,October,New York,Brooklyn,0,4,4
+2032,2016,October,Louisiana,New Orleans,3,2,5
+2033,2016,October,Minnesota,Minneapolis,0,4,4
+2034,2016,October,Texas,San Antonio,1,4,5
+2035,2016,October,Illinois,Pembroke Township,4,0,4
+2036,2016,October,California,Fresno,0,4,4
+2037,2016,September,California,San Francisco,1,3,4
+2038,2016,September,North Carolina,Winston Salem (Winston-salem),0,4,4
+2039,2016,September,Texas,Humble,0,4,4
+2040,2016,September,Texas,Houston,1,6,7
+2041,2016,September,Illinois,Champaign,1,3,4
+2042,2016,September,Maryland,Baltimore,0,8,8
+2043,2016,September,Washington,Burlington,5,0,5
+2044,2016,September,Pennsylvania,Philadelphia,0,4,4
+2045,2016,September,Pennsylvania,Pittsburgh,0,4,4
+2046,2016,September,Virginia,Lynchburg,1,3,4
+2047,2016,September,District of Columbia,Washington,2,7,9
+2048,2016,September,Florida,Miami,0,6,6
+2049,2016,September,Florida,Orlando,1,6,7
+2050,2016,September,Indiana,Indianapolis,2,2,4
+2051,2016,September,California,Los Angeles (Hollywood),2,2,4
+2052,2016,September,Pennsylvania,Philadelphia,2,5,7
+2053,2016,September,Texas,Humble,1,3,4
+2054,2016,September,Indiana,Fort Wayne,3,2,5
+2055,2016,September,Louisiana,New Orleans,1,5,6
+2056,2016,September,Missouri,Kansas City,0,6,6
+2057,2016,September,Michigan,Saginaw,0,5,5
+2058,2016,September,North Carolina,New Bern,0,5,5
+2059,2016,September,Indiana,Fort Wayne,3,1,4
+2060,2016,September,New Jersey,Jersey City,1,3,4
+2061,2016,September,Florida,Miami,1,3,4
+2062,2016,September,Texas,Del Valle,4,0,4
+2063,2016,September,Arkansas,Hot Springs National Park (Hot Springs),1,4,5
+2064,2016,September,Illinois,Chicago,2,3,5
+2065,2016,September,Pennsylvania,Reading,0,4,4
+2066,2016,September,Virginia,Roanoke,1,10,11
+2067,2016,September,North Carolina,Wilmington,1,3,4
+2068,2016,September,Illinois,Chicago,0,4,4
+2069,2016,August,Georgia,Atlanta,0,4,4
+2070,2016,August,Illinois,Chicago (Englewood),0,4,4
+2071,2016,August,New Jersey,Egg Harbor City,1,5,6
+2072,2016,August,Texas,Lubbock,0,6,6
+2073,2016,August,New York,Bronx,0,4,4
+2074,2016,August,Missouri,Saint Louis,2,2,4
+2075,2016,August,Alabama,Dadeville,0,5,5
+2076,2016,August,Alabama,Bessemer (Brighton),1,6,7
+2077,2016,August,Florida,Miami,2,4,6
+2078,2016,August,New Jersey,Bridgeton,0,5,5
+2079,2016,August,Massachusetts,Boston,0,4,4
+2080,2016,August,Connecticut,Bridgeport,0,13,13
+2081,2016,August,Connecticut,Hamden,0,4,4
+2082,2016,August,Washington,Tacoma,0,5,5
+2083,2016,August,Alabama,Citronelle,5,0,5
+2084,2016,August,Connecticut,Waterbury,0,4,4
+2085,2016,August,California,Oakland,0,4,4
+2086,2016,August,Virginia,Norfolk,0,4,4
+2087,2016,August,Minnesota,Minneapolis,0,5,5
+2088,2016,August,California,Los Angeles,0,4,4
+2089,2016,August,Wisconsin,Milwaukee,2,2,4
+2090,2016,August,New York,Richmond Hill,0,4,4
+2091,2016,August,Missouri,Joplin,0,4,4
+2092,2016,August,Florida,Jacksonville,1,3,4
+2093,2016,August,Texas,Dallas,1,3,4
+2094,2016,August,Pennsylvania,Philadelphia,0,4,4
+2095,2016,August,Illinois,Evanston,0,4,4
+2096,2016,August,California,Sacramento,1,3,4
+2097,2016,August,Florida,Jacksonville,0,7,7
+2098,2016,August,New Mexico,Albuquerque,2,2,4
+2099,2016,August,California,Los Angeles,1,3,4
+2100,2016,August,Colorado,Arvada,2,2,4
+2101,2016,August,Mississippi,Vicksburg,1,3,4
+2102,2016,August,Illinois,Chicago,0,4,4
+2103,2016,August,Pennsylvania,Reading (Sinking Spring),5,0,5
+2104,2016,August,Michigan,Pontiac,1,3,4
+2105,2016,August,California,Perris,2,2,4
+2106,2016,August,Tennessee,Memphis,0,4,4
+2107,2016,August,Georgia,Decatur,1,3,4
+2108,2016,August,Florida,Hollywood (West Park),0,4,4
+2109,2016,August,Indiana,Evansville,0,4,4
+2110,2016,July,Florida,Miami,3,1,4
+2111,2016,July,Texas,Austin,1,4,5
+2112,2016,July,Missouri,Saint Louis,0,5,5
+2113,2016,July,Washington,Mukilteo,3,1,4
+2114,2016,July,Georgia,Townsend (Eulonia),0,5,5
+2115,2016,July,Georgia,Athens,0,7,7
+2116,2016,July,New York,Elmira,0,5,5
+2117,2016,July,Maryland,Baltimore,0,4,4
+2118,2016,July,Illinois,Chicago,2,2,4
+2119,2016,July,Florida,Fort Myers,2,19,21
+2120,2016,July,Ohio,Hamilton,1,7,8
+2121,2016,July,South Carolina,North Charleston,0,4,4
+2122,2016,July,Ohio,Cincinnati,2,2,4
+2123,2016,July,New York,Brooklyn,0,4,4
+2124,2016,July,Texas,Bastrop,4,1,5
+2125,2016,July,Illinois,Kankakee,0,5,5
+2126,2016,July,Illinois,Chicago,0,5,5
+2127,2016,July,California,Fresno,0,4,4
+2128,2016,July,Arkansas,West Memphis,0,4,4
+2129,2016,July,Michigan,Detroit,0,4,4
+2130,2016,July,Louisiana,Baton Rouge,4,3,7
+2131,2016,July,Texas,Houston,1,3,4
+2132,2016,July,Texas,Dallas,0,5,5
+2133,2016,July,Ohio,Cleveland,0,5,5
+2134,2016,July,California,Bakersfield,1,14,15
+2135,2016,July,California,San Bernardino,0,4,4
+2136,2016,July,Tennessee,Clarksville,0,6,6
+2137,2016,July,Washington,Woodland,3,1,4
+2138,2016,July,Texas,Crosby,3,1,4
+2139,2016,July,California,Oakland,0,4,4
+2140,2016,July,Ohio,Akron,1,3,4
+2141,2016,July,Georgia,Warner Robins,0,5,5
+2142,2016,July,Missouri,Saint Louis,2,2,4
+2143,2016,July,Maryland,Baltimore,0,5,5
+2144,2016,July,Michigan,Jackson,0,4,4
+2145,2016,July,Michigan,Saint Joseph,3,2,5
+2146,2016,July,District of Columbia,Washington,0,4,4
+2147,2016,July,Louisiana,Baton Rouge,0,4,4
+2148,2016,July,Texas,Dallas,5,9,14
+2149,2016,July,Tennessee,Bristol,1,4,5
+2150,2016,July,California,Los Angeles,0,4,4
+2151,2016,July,New York,Brooklyn,0,7,7
+2152,2016,July,Texas,Houston,3,2,5
+2153,2016,July,Pennsylvania,Pittsburgh,0,4,4
+2154,2016,July,Illinois,Chicago (Englewood),0,4,4
+2155,2016,July,Ohio,Cleveland,0,4,4
+2156,2016,July,Arizona,Phoenix,2,6,8
+2157,2016,July,Louisiana,Monroe,2,3,5
+2158,2016,July,Tennessee,Chattanooga,0,4,4
+2159,2016,June,Illinois,Chicago,1,4,5
+2160,2016,June,Nevada,Las Vegas,5,0,5
+2161,2016,June,California,Los Angeles,1,3,4
+2162,2016,June,Illinois,Chicago,0,4,4
+2163,2016,June,Oregon,Woodburn,3,1,4
+2164,2016,June,South Carolina,Bennettsville,0,4,4
+2165,2016,June,North Carolina,Charlotte,0,5,5
+2166,2016,June,Georgia,Atlanta,1,4,5
+2167,2016,June,Texas,Houston,1,3,4
+2168,2016,June,Texas,Corpus Christi,0,4,4
+2169,2016,June,Texas,Fort Worth,2,5,7
+2170,2016,June,Virginia,Norfolk,0,4,4
+2171,2016,June,Illinois,Chicago,0,4,4
+2172,2016,June,Kansas,Kansas City,0,4,4
+2173,2016,June,Connecticut,Hartford,0,5,5
+2174,2016,June,Maryland,District Heights,3,2,5
+2175,2016,June,Georgia,Stone Mountain,1,3,4
+2176,2016,June,Washington,Olympia,3,1,4
+2177,2016,June,Illinois,Chicago,0,4,4
+2178,2016,June,New Jersey,Willingboro,0,4,4
+2179,2016,June,Kentucky,Louisville,2,2,4
+2180,2016,June,Virginia,Roanoke,0,4,4
+2181,2016,June,Virginia,Exmore,1,3,4
+2182,2016,June,Georgia,Waycross,2,2,4
+2183,2016,June,Illinois,Chicago,0,4,4
+2184,2016,June,California,Oakland,1,3,4
+2185,2016,June,Delaware,Wilmington,0,4,4
+2186,2016,June,California,Fresno,0,4,4
+2187,2016,June,New York,Brooklyn,0,5,5
+2188,2016,June,Illinois,Chicago,0,5,5
+2190,2016,June,Minnesota,Webster,0,4,4
+2191,2016,June,North Carolina,Charlotte,1,3,4
+2192,2016,June,California,Stockton,1,3,4
+2193,2016,June,New Mexico,Roswell,5,0,5
+2194,2016,June,California,Panorama City,3,2,5
+2195,2016,June,Florida,Fort Walton Beach,0,4,4
+2196,2016,June,District of Columbia,Washington,0,4,4
+2197,2016,June,Massachusetts,Boston,1,3,4
+2198,2016,June,California,Visalia,0,4,4
+2199,2016,June,Arizona,Phoenix,2,4,6
+2200,2016,June,Minnesota,Minneapolis,0,4,4
+2201,2016,June,Florida,Cape Coral,3,3,6
+2202,2016,June,New York,Brooklyn,0,4,4
+2203,2016,June,Colorado,Denver,3,1,4
+2204,2016,May,Illinois,Chicago,0,4,4
+2205,2016,May,Indiana,Fort Wayne,0,4,4
+2206,2016,May,Maryland,Baltimore,0,5,5
+2207,2016,May,California,Sacramento,0,5,5
+2208,2016,May,Nevada,Las Vegas,0,4,4
+2209,2016,May,New Jersey,Trenton,0,6,6
+2210,2016,May,Indiana,Indianapolis,0,4,4
+2211,2016,May,Texas,Houston,2,6,8
+2212,2016,May,New Jersey,Newark,0,5,5
+2213,2016,May,Louisiana,New Orleans,0,4,4
+2214,2016,May,California,Stockton,1,3,4
+2215,2016,May,Tennessee,Nashville,0,4,4
+2216,2016,May,Georgia,Jackson,1,3,4
+2217,2016,May,Indiana,Indianapolis,0,4,4
+2218,2016,May,South Carolina,Ravenel,3,1,4
+2219,2016,May,Georgia,Moultrie,5,0,5
+2220,2016,May,Indiana,Evansville,0,4,4
+2221,2016,May,Georgia,Atlanta,0,5,5
+2222,2016,May,West Virginia,Charleston,1,3,4
+2223,2016,May,Alabama,Birmingham,1,4,5
+2224,2016,May,Illinois,Chicago,0,5,5
+2225,2016,May,Texas,Austin,1,3,4
+2226,2016,May,Michigan,Detroit,1,4,5
+2227,2016,May,Alabama,Montgomery,1,3,4
+2228,2016,May,Maryland,Bethesda,3,3,6
+2229,2016,May,Louisiana,Shreveport,2,6,8
+2230,2016,May,Florida,Miami,1,3,4
+2231,2016,May,Minnesota,Minneapolis,1,7,8
+2232,2016,May,Tennessee,Murfreesboro,0,5,5
+2233,2016,April,Missouri,Saint Louis (Ferguson),0,4,4
+2234,2016,April,California,Oakland,0,5,5
+2235,2016,April,Louisiana,Baton Rouge,2,2,4
+2236,2016,April,Mississippi,Kilmichael,3,1,4
+2237,2016,April,Maryland,District Heights (Forestville),1,4,5
+2238,2016,April,Tennessee,Nashville,0,4,4
+2239,2016,April,Florida,Miami,0,5,5
+2240,2016,April,Virginia,Halifax,0,5,5
+2241,2016,April,Illinois,Chicago (Englewood),2,3,5
+2242,2016,April,Colorado,Denver,0,4,4
+2243,2016,April,Nevada,Las Vegas,1,3,4
+2244,2016,April,Alabama,Auburn,3,1,4
+2245,2016,April,New York,New York (Manhattan),0,4,4
+2246,2016,April,Kansas,Topeka,1,4,5
+2247,2016,April,Ohio,Piketon,8,0,8
+2248,2016,April,Georgia,Appling,6,0,6
+2249,2016,April,Maryland,Baltimore,0,4,4
+2250,2016,April,Alabama,Blountsville,1,4,5
+2251,2016,April,Illinois,Chicago,1,3,4
+2252,2016,April,Illinois,Chicago,1,4,5
+2253,2016,April,California,Long Beach,1,3,4
+2254,2016,April,Pennsylvania,Philadelphia,3,1,4
+2255,2016,April,South Carolina,Pelzer,1,3,4
+2256,2016,April,Texas,Edinburg,1,6,7
+2257,2016,April,Michigan,Detroit,1,4,5
+2258,2016,April,Florida,Orlando,2,4,6
+2259,2016,April,Alabama,Enterprise,0,4,4
+2260,2016,April,Wisconsin,Milwaukee,1,3,4
+2261,2016,April,California,Los Angeles,0,4,4
+2262,2016,April,Tennessee,Memphis,0,4,4
+2263,2016,April,Alabama,Anniston,0,4,4
+2264,2016,April,New Mexico,Albuquerque,0,4,4
+2265,2016,April,Illinois,Chicago,0,4,4
+2266,2016,March,Illinois,Chicago (Englewood),0,4,4
+2267,2016,March,Illinois,Chicago,0,4,4
+2268,2016,March,Colorado,Denver,0,4,4
+2269,2016,March,Illinois,Chicago,0,4,4
+2270,2016,March,Florida,Plantation,1,4,5
+2271,2016,March,Alabama,Wetumpka,2,2,4
+2272,2016,March,Georgia,Atlanta,0,5,5
+2273,2016,March,Florida,Fort Myers,0,4,4
+2274,2016,March,Oregon,Portland,0,4,4
+2275,2016,March,California,Oakland,0,4,4
+2276,2016,March,Michigan,Detroit,2,2,4
+2277,2016,March,New Jersey,Trenton,0,5,5
+2278,2016,March,Pennsylvania,Pittsburgh (Wilkinsburg),6,2,8
+2279,2016,March,Texas,San Antonio,2,3,5
+2280,2016,March,Louisiana,Lafayette,0,4,4
+2281,2016,March,Kansas,Kansas City,5,0,5
+2282,2016,March,Massachusetts,Chelsea,1,6,7
+2283,2016,March,Georgia,Roswell,0,4,4
+2284,2016,March,California,Compton,1,8,9
+2285,2016,March,Kansas,Wichita,0,4,4
+2286,2016,March,Ohio,Columbus,1,3,4
+2287,2016,February,Michigan,Detroit,0,5,5
+2288,2016,February,California,Riverside (Jurupa Valley),1,3,4
+2289,2016,February,Virginia,Woodbridge (Lake Ridge),2,2,4
+2290,2016,February,Washington,Belfair,5,0,5
+2291,2016,February,Kansas,Hesston,4,14,18
+2292,2016,February,Arizona,Glendale,5,0,5
+2293,2016,February,Florida,Daytona Beach,0,4,4
+2294,2016,February,Texas,Houston,0,5,5
+2295,2016,February,Missouri,Hazelwood,1,3,4
+2296,2016,February,Florida,Tampa,1,3,4
+2297,2016,February,Michigan,Kalamazoo,6,2,8
+2298,2016,February,Alabama,Bessemer,1,3,4
+2299,2016,February,Florida,Orlando,0,4,4
+2300,2016,February,Mississippi,Iuka,2,3,5
+2301,2016,February,Missouri,Edgerton,4,0,4
+2302,2016,February,California,Vallejo,1,3,4
+2303,2016,February,Texas,Houston,1,3,4
+2304,2016,February,Alabama,Eutaw (Union),0,5,5
+2305,2016,February,Louisiana,Marrero,0,4,4
+2306,2016,February,Mississippi,Pass Christian,2,4,6
+2307,2016,February,Florida,Orlando,2,10,12
+2308,2016,February,New York,Rochester,1,7,8
+2309,2016,February,Illinois,Chicago (Englewood),0,4,4
+2310,2016,February,California,Los Angeles,1,3,4
+2311,2016,February,Florida,Apopka,0,4,4
+2312,2016,February,Florida,Tampa,2,6,8
+2313,2016,February,District of Columbia,Washington,0,4,4
+2314,2016,January,Arizona,Glendale,3,5,8
+2315,2016,January,Virginia,Chesapeake,6,0,6
+2316,2016,January,Washington,Seattle,2,3,5
+2317,2016,January,California,Perris,1,4,5
+2318,2016,January,California,Los Angeles,2,2,4
+2319,2016,January,Virginia,Ware Neck (Gloucester Courthouse),1,3,4
+2320,2016,January,Delaware,Wilmington,1,4,5
+2321,2016,January,District of Columbia,Washington,0,4,4
+2322,2016,January,Illinois,Chicago,1,4,5
+2323,2016,January,Tennessee,Memphis,1,3,4
+2324,2016,January,Florida,Lakeland,3,1,4
+2325,2015,December,Louisiana,New Orleans,0,6,6
+2326,2015,December,Tennessee,Jackson,0,4,4
+2327,2015,December,Pennsylvania,Philadelphia,0,4,4
+2328,2015,December,Florida,Jacksonville,0,4,4
+2329,2015,December,Alabama,Mobile,0,4,4
+2330,2015,December,California,San Leandro,0,4,4
+2331,2015,December,North Carolina,Wilmington,1,4,5
+2332,2015,December,Florida,North Miami Beach,0,4,4
+2333,2015,December,Florida,Miami (Goulds),1,4,5
+2334,2015,December,California,Los Angeles,1,3,4
+2335,2015,December,California,Huntington Beach,0,4,4
+2336,2015,December,Illinois,Lovejoy (Brooklyn),1,3,4
+2337,2015,December,Georgia,Savannah,0,4,4
+2338,2015,December,Maryland,Baltimore,1,3,4
+2339,2015,December,Pennsylvania,Pittsburgh (Mount Oliver),0,4,4
+2340,2015,December,Ohio,Cincinnati (Fairmount),1,3,4
+2341,2015,December,Louisiana,Raceland,1,3,4
+2342,2015,December,Nebraska,Omaha,2,3,5
+2344,2015,December,Georgia,Savannah,1,3,4
+2345,2015,November,Illinois,Kankakee,0,5,5
+2346,2015,November,Colorado,Colorado Springs,3,9,12
+2347,2015,November,California,Sacramento,2,2,4
+2348,2015,November,South Carolina,Conway,0,4,4
+2349,2015,November,Ohio,Columbus,4,1,5
+2350,2015,November,Minnesota,Minneapolis,0,5,5
+2351,2015,November,Texas,Brownsville,0,4,4
+2352,2015,November,Washington,Seattle,0,4,4
+2353,2015,November,New York,Newburgh,0,5,5
+2354,2015,November,South Carolina,North Charleston,1,3,4
+2355,2015,November,Illinois,Chicago,0,4,4
+2356,2015,November,Louisiana,New Orleans,0,17,17
+2357,2015,November,Maryland,Baltimore,1,3,4
+2358,2015,November,Pennsylvania,Pittsburgh,1,3,4
+2359,2015,November,California,Fresno,0,5,5
+2360,2015,November,Alabama,Cedar Bluff,3,1,4
+2361,2015,November,Texas,Tennessee Colony,5,0,5
+2362,2015,November,Pennsylvania,Philadelphia,0,4,4
+2363,2015,November,Pennsylvania,Johnstown,0,4,4
+2364,2015,November,Florida,Jacksonville,4,1,5
+2365,2015,November,Indiana,Indianapolis,2,2,4
+2366,2015,November,Iowa,Des Moines,1,3,4
+2367,2015,November,Michigan,Warren,0,4,4
+2368,2015,November,Colorado,Denver,1,3,4
+2369,2015,November,California,Bakersfield,0,4,4
+2370,2015,November,Florida,Jacksonville,2,3,5
+2371,2015,November,South Carolina,Pendleton,4,0,4
+2372,2015,October,Louisiana,Houma,1,3,4
+2373,2015,October,Texas,Fort Worth,0,5,5
+2374,2015,October,Indiana,Evansville,0,5,5
+2375,2015,October,Arizona,Phoenix,1,4,5
+2376,2015,October,District of Columbia,Washington,0,5,5
+2377,2015,October,North Carolina,Four Oaks,0,5,5
+2378,2015,October,South Carolina,Bamberg,0,4,4
+2379,2015,October,Tennessee,Nashville,1,3,4
+2380,2015,October,Illinois,Calumet City,0,6,6
+2381,2015,October,Louisiana,New Orleans,0,4,4
+2382,2015,October,Indiana,Elkhart,0,4,4
+2383,2015,October,Florida,Fort Myers,1,4,5
+2384,2015,October,Georgia,Decatur,0,4,4
+2385,2015,October,Tennessee,Memphis,0,6,6
+2386,2015,October,North Carolina,Charlotte,0,4,4
+2387,2015,October,Illinois,Peoria,1,3,4
+2388,2015,October,Arizona,Flagstaff,1,3,4
+2389,2015,October,Maryland,Baltimore,0,5,5
+2390,2015,October,Maryland,Baltimore,1,4,5
+2391,2015,October,Oregon,Roseburg,10,9,19
+2392,2015,September,Ohio,Cincinnati (Evanston),0,5,5
+2393,2015,September,Illinois,Chicago,3,2,5
+2394,2015,September,Illinois,Chicago,2,3,5
+2395,2015,September,Ohio,Dayton,0,4,4
+2396,2015,September,Georgia,Greenville,0,10,10
+2397,2015,September,Illinois,Chicago,0,4,4
+2398,2015,September,Missouri,Kansas City,0,4,4
+2399,2015,September,Illinois,Danville,0,4,4
+2400,2015,September,Illinois,Chicago,0,5,5
+2401,2015,September,Florida,Fort Myers,0,4,4
+2402,2015,September,Louisiana,Shreveport,0,5,5
+2403,2015,September,Georgia,Norcross,1,3,4
+2404,2015,September,Oklahoma,Tulsa,0,6,6
+2405,2015,September,Pennsylvania,Philadelphia,1,3,4
+2406,2015,September,Illinois,Chicago,1,5,6
+2407,2015,September,Indiana,Indianapolis,1,3,4
+2408,2015,September,South Dakota,Geddes,6,0,6
+2409,2015,September,Michigan,Albion,0,4,4
+2410,2015,September,New Jersey,Newark,0,4,4
+2411,2015,September,Florida,Ocala,1,5,6
+2412,2015,September,Louisiana,Shreveport,0,4,4
+2413,2015,September,New York,Rochester,2,4,6
+2414,2015,September,Minnesota,Minneapolis,0,6,6
+2415,2015,September,Minnesota,Minneapolis,1,3,4
+2416,2015,September,North Carolina,Charlotte,0,5,5
+2417,2015,September,Minnesota,Excelsior (Greenwood),5,0,5
+2418,2015,September,Georgia,Berlin,0,4,4
+2419,2015,September,Illinois,Chicago,0,4,4
+2420,2015,September,Indiana,Gary,2,4,6
+2421,2015,September,Colorado,Denver,0,4,4
+2422,2015,September,North Carolina,Charlotte,1,3,4
+2423,2015,September,Florida,Daytona Beach,0,4,4
+2424,2015,September,Nevada,Las Vegas,1,3,4
+2425,2015,September,Missouri,Columbia,0,4,4
+2426,2015,August,Tennessee,Memphis,1,4,5
+2427,2015,August,Tennessee,Bristol,3,2,5
+2428,2015,August,Texas,Tyler,1,3,4
+2429,2015,August,New York,Brooklyn,1,3,4
+2430,2015,August,California,Salinas,2,2,4
+2431,2015,August,Minnesota,Minneapolis (Brooklyn Center),0,4,4
+2432,2015,August,Illinois,Chicago,2,2,4
+2433,2015,August,Florida,West Palm Beach,2,2,4
+2434,2015,August,Louisiana,New Orleans,1,3,4
+2435,2015,August,California,Modesto,1,7,8
+2436,2015,August,Florida,Orlando (Pine Hills),0,4,4
+2437,2015,August,New Mexico,Roswell,3,1,4
+2438,2015,August,North Carolina,Durham,0,8,8
+2439,2015,August,Ohio,Cincinnati,2,5,7
+2440,2015,August,New York,Rochester,3,4,7
+2441,2015,August,Texas,Fort Worth,0,6,6
+2442,2015,August,Illinois,Chicago,0,4,4
+2443,2015,August,South Carolina,Bennettsville,0,5,5
+2444,2015,August,Pennsylvania,Pittsburgh,1,3,4
+2445,2015,August,California,Los Angeles,0,4,4
+2446,2015,August,South Carolina,Orangeburg,1,3,4
+2447,2015,August,California,Long Beach,0,4,4
+2448,2015,August,Mississippi,Forest,1,3,4
+2449,2015,August,Michigan,Detroit,1,3,4
+2450,2015,August,Missouri,Kansas City,0,4,4
+2451,2015,August,North Carolina,Gastonia,2,3,5
+2452,2015,August,Arkansas,Blytheville,1,11,12
+2453,2015,August,Texas,Houston,8,0,8
+2454,2015,August,Vermont,Barre (Berlin),4,0,4
+2455,2015,August,South Carolina,Columbia,0,4,4
+2456,2015,August,Missouri,Saint Louis,1,4,5
+2457,2015,August,New York,Brooklyn,0,5,5
+2458,2015,August,New York,Brooklyn,0,9,9
+2459,2015,August,Maryland,Baltimore,0,7,7
+2460,2015,August,Illinois,Chicago,1,4,5
+2461,2015,August,Georgia,Savannah,0,5,5
+2462,2015,August,Illinois,Chicago,0,4,4
+2463,2015,August,Florida,Orlando,0,4,4
+2464,2015,July,Pennsylvania,Pittsburgh,0,4,4
+2465,2015,July,Illinois,Rockford,0,5,5
+2466,2015,July,Missouri,Kansas City,2,3,5
+2467,2015,July,Louisiana,New Orleans,0,4,4
+2468,2015,July,Virginia,Hopewell,0,4,4
+2469,2015,July,Pennsylvania,Erie,2,5,7
+2470,2015,July,Louisiana,Lafayette,3,9,12
+2471,2015,July,Missouri,Saint Louis,0,6,6
+2472,2015,July,Georgia,Suwanee,5,0,5
+2473,2015,July,Florida,Miami Gardens,1,3,4
+2474,2015,July,New York,Bronx,0,6,6
+2475,2015,July,Virginia,Suffolk,0,4,4
+2476,2015,July,Kentucky,Louisville,0,6,6
+2477,2015,July,North Carolina,Rocky Mount,0,4,4
+2478,2015,July,California,San Diego,0,4,4
+2479,2015,July,California,Santa Paula,0,5,5
+2480,2015,July,Oregon,Salem,1,4,5
+2481,2015,July,Louisiana,Baton Rouge,2,2,4
+2482,2015,July,Illinois,Chicago,0,5,5
+2483,2015,July,Ohio,Cincinnati (Westwood),0,4,4
+2484,2015,July,District of Columbia,Washington,1,3,4
+2485,2015,July,Texas,Dallas,0,5,5
+2486,2015,July,Tennessee,Chattanooga,6,2,8
+2487,2015,July,Georgia,Atlanta,0,5,5
+2488,2015,July,Maryland,Baltimore,1,3,4
+2489,2015,July,Ohio,Cleveland,0,7,7
+2490,2015,July,Michigan,Detroit,0,4,4
+2491,2015,July,South Carolina,Holly Hill,4,1,5
+2492,2015,July,Missouri,Saint Louis,0,4,4
+2493,2015,July,California,Norwalk,0,4,4
+2494,2015,July,California,Stockton,1,4,5
+2495,2015,July,Illinois,River Forest,2,3,5
+2496,2015,July,New Jersey,Jersey City,0,4,4
+2497,2015,July,Ohio,Cleveland,1,3,4
+2498,2015,July,Maryland,Baltimore,3,1,4
+2499,2015,July,Louisiana,Shreveport,0,6,6
+2500,2015,July,Indiana,Fort Wayne,0,9,9
+2501,2015,July,New Jersey,East Orange,1,3,4
+2502,2015,July,Kentucky,Louisville,0,4,4
+2503,2015,July,Massachusetts,Pittsfield,1,4,5
+2504,2015,July,District of Columbia,Washington,1,3,4
+2505,2015,July,New York,Syracuse,0,4,4
+2506,2015,July,Texas,San Antonio,0,4,4
+2507,2015,July,Indiana,Indianapolis,1,3,4
+2508,2015,June,Florida,Opa Locka,0,4,4
+2509,2015,June,Illinois,Venice,0,6,6
+2510,2015,June,Michigan,Detroit,0,5,5
+2511,2015,June,Delaware,Harrington,0,6,6
+2512,2015,June,Massachusetts,Taunton,1,3,4
+2513,2015,June,Michigan,Detroit,0,4,4
+2514,2015,June,New York,New York (Manhattan),0,4,4
+2515,2015,June,Pennsylvania,Philadelphia,0,7,7
+2516,2015,June,Pennsylvania,Pittsburgh (Wilkinsburg),0,4,4
+2517,2015,June,Kentucky,Lexington,1,4,5
+2518,2015,June,Pennsylvania,Philadelphia,0,10,10
+2519,2015,June,North Carolina,Morven,0,4,4
+2520,2015,June,Michigan,Detroit,1,11,12
+2521,2015,June,Rhode Island,Woonsocket,0,4,4
+2522,2015,June,South Carolina,Charleston,9,0,9
+2523,2015,June,Florida,Miami Gardens,0,4,4
+2524,2015,June,New York,Brooklyn,0,4,4
+2525,2015,June,New Jersey,Camden,1,3,4
+2526,2015,June,Oklahoma,Tulsa,0,4,4
+2527,2015,June,Missouri,Saint Louis,0,4,4
+2528,2015,June,Georgia,Fayetteville,1,4,5
+2529,2015,June,Oklahoma,Oklahoma City,0,4,4
+2530,2015,June,Georgia,Milledgeville,1,3,4
+2531,2015,June,New York,Bronx,0,5,5
+2532,2015,June,Ohio,Columbus,4,1,5
+2533,2015,June,Florida,Allapattah,0,4,4
+2534,2015,June,Connecticut,Bridgeport,1,8,9
+2535,2015,June,Texas,Houston,1,3,4
+2536,2015,June,California,Los Angeles,1,3,4
+2537,2015,June,Missouri,Saint Louis,1,3,4
+2538,2015,June,Montana,Deer Lodge,5,0,5
+2539,2015,June,New York,Buffalo,1,4,5
+2540,2015,June,Illinois,Chicago,0,5,5
+2541,2015,June,Iowa,Davenport,0,5,5
+2542,2015,June,Louisiana,New Orleans,1,3,4
+2543,2015,June,New York,Wyandanch,3,1,4
+2544,2015,May,Georgia,Conyers,3,2,5
+2545,2015,May,Ohio,Cleveland,3,1,4
+2546,2015,May,Maryland,Springdale,1,3,4
+2547,2015,May,Connecticut,New Haven,0,5,5
+2548,2015,May,California,San Diego,0,4,4
+2549,2015,May,Nebraska,Omaha,0,4,4
+2550,2015,May,Illinois,Chicago,0,5,5
+2551,2015,May,Pennsylvania,Chester,1,3,4
+2552,2015,May,Louisiana,New Orleans,2,2,4
+2553,2015,May,Illinois,Decatur,1,4,5
+2554,2015,May,Massachusetts,Brockton,0,5,5
+2555,2015,May,Michigan,Flint,0,7,7
+2556,2015,May,Alabama,Montgomery,1,3,4
+2557,2015,May,Missouri,Saint Louis,0,4,4
+2558,2015,May,California,Fresno,2,2,4
+2559,2015,May,Maryland,Baltimore,1,3,4
+2560,2015,May,Missouri,Kinloch,0,4,4
+2561,2015,May,Florida,Miami,1,4,5
+2562,2015,May,Texas,Waco,9,18,27
+2563,2015,May,Wisconsin,Milwaukee,0,5,5
+2564,2015,May,New York,Rochester,0,4,4
+2565,2015,May,Maryland,Baltimore,0,5,5
+2566,2015,May,Arizona,Tucson,5,0,5
+2567,2015,May,Maryland,Capitol Heights,1,4,5
+2568,2015,May,Ohio,Cleveland,1,4,5
+2569,2015,May,New Jersey,Jersey City,0,4,4
+2570,2015,May,New Jersey,Newark,1,3,4
+2571,2015,May,Ohio,Cincinnati,0,4,4
+2572,2015,May,Michigan,Detroit,0,4,4
+2573,2015,May,New York,Buffalo,1,3,4
+2574,2015,May,Indiana,South Bend,0,4,4
+2575,2015,May,New York,Bronx,0,4,4
+2576,2015,May,Ohio,Dayton,1,6,7
+2577,2015,May,Texas,Houston,0,6,6
+2578,2015,May,Wisconsin,Menasha,4,1,5
+2579,2015,May,Wisconsin,Milwaukee,2,3,5
+2580,2015,April,New York,Brooklyn,2,4,6
+2581,2015,April,Arizona,Gila Bend,2,2,4
+2582,2015,April,New Jersey,Trenton,0,4,4
+2583,2015,April,New York,Gates,1,6,7
+2584,2015,April,Texas,Killeen,2,3,5
+2585,2015,April,Virginia,Richmond,0,4,4
+2586,2015,April,Alabama,Montgomery,0,5,5
+2587,2015,April,Pennsylvania,Williamsport,0,5,5
+2588,2015,April,North Carolina,Lumberton,1,3,4
+2589,2015,April,North Carolina,Charlotte,0,4,4
+2590,2015,April,New Jersey,Paterson,1,3,4
+2591,2015,April,Arizona,Phoenix,5,0,5
+2592,2015,April,Georgia,Rome,1,3,4
+2593,2015,April,Pennsylvania,Pittsburgh,1,3,4
+2594,2015,April,Kentucky,Louisville,1,4,5
+2595,2015,April,Indiana,Indianapolis,0,5,5
+2596,2015,April,Michigan,Benton Harbor,0,4,4
+2597,2015,April,Florida,Daytona Beach,0,4,4
+2598,2015,April,Maryland,Baltimore,0,5,5
+2599,2015,March,Florida,Panama City Beach,0,7,7
+2600,2015,March,Texas,Amarillo,0,4,4
+2601,2015,March,Indiana,Indianapolis,4,0,4
+2602,2015,March,Tennessee,Clarksville,1,4,5
+2603,2015,March,New Mexico,Albuquerque,1,6,7
+2604,2015,March,Florida,Tampa,0,4,4
+2605,2015,March,Oklahoma,Oklahoma City,0,4,4
+2606,2015,March,Texas,Lancaster,1,5,6
+2607,2015,March,New Jersey,Newark,1,3,4
+2608,2015,March,Arizona,Mesa,1,5,6
+2609,2015,March,California,Stockton,3,4,7
+2610,2015,March,California,Compton,0,4,4
+2611,2015,March,Georgia,Atlanta,0,5,5
+2612,2015,March,California,Coachella,0,4,4
+2613,2015,March,Mississippi,Brookhaven,2,3,5
+2614,2015,March,Georgia,Columbus,0,5,5
+2615,2015,March,Illinois,Chicago,1,3,4
+2616,2015,March,South Carolina,Seneca,1,3,4
+2617,2015,March,Missouri,Saint Louis,0,4,4
+2618,2015,March,California,San Bernardino,3,4,7
+2619,2015,March,Florida,Orlando,0,4,4
+2620,2015,March,Michigan,Detroit,1,5,6
+2621,2015,February,Maryland,Baltimore,1,3,4
+2622,2015,February,Missouri,Tyrone,8,1,9
+2623,2015,February,Texas,Houston,3,1,4
+2624,2015,February,Florida,Daytona Beach,0,4,4
+2625,2015,February,Texas,Killeen,4,1,5
+2626,2015,February,South Carolina,Charleston,0,4,4
+2627,2015,February,Georgia,Clarkesville,3,2,5
+2628,2015,February,California,Sacramento,0,4,4
+2629,2015,February,Arkansas,Little Rock,1,3,4
+2630,2015,February,California,Long Beach,0,5,5
+2631,2015,February,Florida,New Port Richey,3,1,4
+2632,2015,February,Tennessee,Friendship,0,6,6
+2633,2015,February,Georgia,Douglasville,5,2,7
+2634,2015,February,Oklahoma,Tulsa,1,4,5
+2635,2015,February,Ohio,Beachwood (Warrensville Heights),3,3,6
+2636,2015,February,New York,Syracuse,0,6,6
+2637,2015,February,New York,New York (Manhattan),1,4,5
+2638,2015,January,Georgia,Lagrange,4,0,4
+2639,2015,January,Georgia,Ellenwood,1,3,4
+2640,2015,January,California,Stockton,1,3,4
+2641,2015,January,New York,Arverne (Queens),4,1,5
+2642,2015,January,Nebraska,Omaha,3,5,8
+2643,2015,January,Massachusetts,Boston,0,6,6
+2644,2015,January,Tennessee,Clarksville,1,3,4
+2645,2015,January,Texas,San Antonio,2,5,7
+2646,2015,January,Illinois,Rockford,2,2,4
+2647,2015,January,Virginia,Portsmouth,0,5,5
+2648,2015,January,North Carolina,Hope Mills,2,5,7
+2649,2015,January,Florida,Lakeland,1,3,4
+2650,2015,January,California,San Jose,0,5,5
+2651,2015,January,Kansas,Wichita,2,2,4
+2652,2015,January,California,San Francisco,4,0,4
+2653,2015,January,Massachusetts,Boston,1,3,4
+2654,2015,January,Tennessee,Chattanooga,1,3,4
+2655,2015,January,Florida,Miami,1,3,4
+2656,2015,January,Virginia,Roanoke,2,4,6
+2657,2015,January,Texas,Dallas,3,1,4
+2658,2015,January,Georgia,Savannah,1,4,5
+2659,2015,January,Tennessee,Memphis,0,5,5
+2660,2014,December,Louisiana,New Orleans,0,4,4
+2661,2014,December,California,Los Angeles,1,3,4
+2662,2014,December,California,Sacramento,0,4,4
+2663,2014,December,Illinois,East St. Louis,1,3,4
+2664,2014,December,Missouri,Saint Louis,1,3,4
+2665,2014,December,Kentucky,Winchester,1,3,4
+2666,2014,December,Michigan,Detroit,1,3,4
+2667,2014,December,New York,Webster,4,2,6
+2668,2014,December,Illinois,Chicago,0,5,5
+2669,2014,December,Florida,Sarasota,2,2,4
+2670,2014,December,Mississippi,Waynesboro,1,4,5
+2671,2014,December,Illinois,Calumet City,1,8,9
+2672,2014,December,Illinois,Rockford,4,0,4
+2673,2014,December,New Jersey,Elizabeth,0,4,4
+2674,2014,December,Pennsylvania,Lansdale,7,0,7
+2675,2014,December,Florida,Miami,1,4,5
+2676,2014,December,Florida,Tampa,0,5,5
+2677,2014,December,Oregon,Portland,0,4,4
+2678,2014,December,Indiana,South Bend,0,4,4
+2679,2014,December,Missouri,Saint Louis,1,5,6
+2680,2014,December,Virginia,Newport News,0,5,5
+2681,2014,November,New York,Brooklyn,0,4,4
+2682,2014,November,Tennessee,Chattanooga,0,5,5
+2683,2014,November,New Jersey,Newark,1,3,4
+2684,2014,November,Georgia,Atlanta,3,2,5
+2685,2014,November,Tennessee,Memphis,0,4,4
+2686,2014,November,Texas,Georgetown,2,3,5
+2687,2014,November,California,San Francisco,0,6,6
+2688,2014,November,Virginia,Parksley,0,4,4
+2689,2014,November,Colorado,Denver,1,4,5
+2690,2014,November,Ohio,Cleveland,4,1,5
+2691,2014,November,South Dakota,Sisseton,4,1,5
+2692,2014,November,Ohio,Springfield,1,3,4
+2693,2014,November,Pennsylvania,Pittsburgh,0,6,6
+2694,2014,November,Illinois,Chicago,1,3,4
+2695,2014,November,Nevada,North Las Vegas,0,4,4
+2696,2014,November,Ohio,Akron,1,4,5
+2697,2014,November,Texas,El Paso,0,6,6
+2698,2014,November,Missouri,Springfield,4,0,4
+2699,2014,November,Florida,Miami,1,3,4
+2700,2014,November,California,Pomona,0,5,5
+2701,2014,November,California,Compton,0,4,4
+2702,2014,November,California,Los Angeles,0,4,4
+2703,2014,November,California,San Francisco,0,4,4
+2704,2014,October,Tennessee,Memphis,0,5,5
+2705,2014,October,Kentucky,Cadiz,4,0,4
+2706,2014,October,Washington,Marysville,5,1,6
+2707,2014,October,New York,Queens,0,4,4
+2708,2014,October,South Carolina,Graniteville,1,3,4
+2709,2014,October,New York,Brooklyn,0,4,4
+2710,2014,October,Michigan,Detroit,1,3,4
+2711,2014,October,Georgia,Peachtree Corners,3,2,5
+2712,2014,October,Georgia,Atlanta,0,4,4
+2713,2014,October,California,Stockton,3,1,4
+2714,2014,October,Georgia,Atlanta,1,3,4
+2715,2014,October,New York,Utica,0,5,5
+2716,2014,October,Georgia,Atlanta,0,4,4
+2717,2014,October,New York,Guilderland,4,0,4
+2718,2014,October,Florida,Jacksonville,3,1,4
+2719,2014,October,Michigan,Detroit,1,5,6
+2720,2014,October,Tennessee,Memphis,2,2,4
+2721,2014,October,California,Pomona,0,4,4
+2722,2014,September,South Carolina,Walterboro,1,7,8
+2723,2014,September,California,Fresno,0,4,4
+2724,2014,September,Pennsylvania,Philadelphia,0,4,4
+2725,2014,September,Florida,Miami,0,15,15
+2726,2014,September,Missouri,Saint Louis,0,5,5
+2727,2014,September,South Carolina,Florence,1,4,5
+2728,2014,September,Ohio,East Liverpool,0,4,4
+2729,2014,September,Mississippi,Batesville,2,2,4
+2730,2014,September,New York,Queens,0,4,4
+2731,2014,September,Florida,Bell,8,0,8
+2732,2014,September,Louisiana,New Orleans,0,5,5
+2733,2014,September,Texas,Flour Bluff,3,1,4
+2734,2014,September,Alaska,Anchorage,0,6,6
+2735,2014,September,Michigan,Detroit,1,7,8
+2736,2014,September,Florida,Orlando,0,4,4
+2737,2014,September,Georgia,Macon,0,5,5
+2738,2014,September,Michigan,Flint,0,5,5
+2739,2014,September,California,Los Angeles,0,6,6
+2740,2014,September,California,Highland,0,5,5
+2741,2014,September,Mississippi,Jackson,2,3,5
+2742,2014,August,California,Livermore,0,5,5
+2743,2014,August,Florida,Brooksville,3,1,4
+2744,2014,August,Michigan,Detroit,1,3,4
+2745,2014,August,Illinois,Chicago,1,3,4
+2746,2014,August,Georgia,Augusta,1,3,4
+2747,2014,August,California,San Fernando,3,4,7
+2748,2014,August,Tennessee,Memphis,0,5,5
+2749,2014,August,Louisiana,Saint Martinville,0,4,4
+2750,2014,August,New York,Queens,0,4,4
+2751,2014,August,Massachusetts,Boston,0,4,4
+2752,2014,August,California,East Palo Alto,1,3,4
+2753,2014,August,Nevada,Las Vegas,0,4,4
+2754,2014,August,New Jersey,Plainfield,1,3,4
+2755,2014,August,Utah,Salt Lake City,0,6,6
+2756,2014,August,Tennessee,Memphis,1,3,4
+2757,2014,August,Tennessee,Clarksville,0,4,4
+2758,2014,August,Louisiana,New Orleans,0,4,4
+2759,2014,August,New York,Buffalo,1,3,4
+2760,2014,August,Georgia,Cartersville,2,3,5
+2761,2014,August,Louisiana,New Orleans,2,5,7
+2762,2014,August,District of Columbia,Washington,0,6,6
+2763,2014,August,Georgia,Wrightsville,0,6,6
+2764,2014,August,California,Moreno Valley,0,7,7
+2765,2014,August,Minnesota,Minneapolis,1,8,9
+2766,2014,August,District of Columbia,Washington,0,4,4
+2767,2014,August,Wisconsin,Milwaukee,0,4,4
+2768,2014,August,New Mexico,Albuquerque,1,3,4
+2769,2014,August,California,Bakersfield,3,1,4
+2770,2014,August,Georgia,Atlanta,0,5,5
+2771,2014,August,Virginia,Culpeper,5,0,5
+2772,2014,August,Texas,Humble,0,7,7
+2773,2014,August,Missouri,Saint Louis,0,5,5
+2774,2014,August,Tennessee,Columbia,0,5,5
+2775,2014,August,Texas,Dallas,3,1,4
+2776,2014,August,Massachusetts,New Bedford,0,7,7
+2777,2014,August,Pennsylvania,Pittsburgh,1,5,6
+2778,2014,August,Pennsylvania,Philadelphia,1,3,4
+2779,2014,July,North Carolina,Hope Mills,3,4,7
+2780,2014,July,Pennsylvania,Philadelphia,1,4,5
+2781,2014,July,Missouri,Saint Louis,0,5,5
+2782,2014,July,Arkansas,Pine Bluff,1,3,4
+2783,2014,July,Maine,Saco,5,0,5
+2784,2014,July,Georgia,Sylvester,0,8,8
+2785,2014,July,Illinois,Chicago,1,6,7
+2786,2014,July,Pennsylvania,Braddock,0,4,4
+2787,2014,July,New Jersey,Irvington,0,6,6
+2788,2014,July,Tennessee,Memphis,0,4,4
+2789,2014,July,Illinois,East Saint Louis,1,3,4
+2790,2014,July,Nevada,Las Vegas,1,3,4
+2791,2014,July,Illinois,Chicago,0,4,4
+2792,2014,July,California,Sacramento,1,4,5
+2793,2014,July,District of Columbia,Washington,0,4,4
+2794,2014,July,Washington,Skyway,0,5,5
+2795,2014,July,Connecticut,Stamford,0,5,5
+2796,2014,July,California,Pasadena,3,2,5
+2797,2014,July,Illinois,Chicago,1,3,4
+2798,2014,July,Texas,Spring,6,1,7
+2799,2014,July,Rhode Island,Providence,0,5,5
+2800,2014,July,Kentucky,Stopover,0,4,4
+2801,2014,July,California,San Bernardino,1,4,5
+2802,2014,July,Florida,Miami,2,2,4
+2803,2014,July,Missouri,Saint Louis,0,4,4
+2804,2014,July,New York,Buffalo,0,4,4
+2805,2014,July,Texas,Houston,0,6,6
+2806,2014,July,Virginia,Norfolk,0,7,7
+2807,2014,July,Oregon,Portland,1,4,5
+2808,2014,July,Indiana,Indianapolis,0,7,7
+2809,2014,July,Illinois,Centreville,0,5,5
+2810,2014,July,Virginia,Norfolk,0,5,5
+2811,2014,July,Pennsylvania,Chester,0,5,5
+2812,2014,June,Kentucky,Lexington,1,3,4
+2813,2014,June,Louisiana,New Orleans,1,9,10
+2814,2014,June,Missouri,Saint Louis,0,4,4
+2815,2014,June,California,Los Angeles,1,5,6
+2816,2014,June,California,Antioch,0,7,7
+2817,2014,June,New York,Manhattan,0,4,4
+2818,2014,June,California,San Diego,1,3,4
+2819,2014,June,Wisconsin,Milwaukee,0,5,5
+2820,2014,June,Michigan,Detroit,2,2,4
+2821,2014,June,Massachusetts,Lowell,0,5,5
+2822,2014,June,Florida,Miami,2,7,9
+2823,2014,June,California,Windsor,1,3,4
+2824,2014,June,Tennessee,Memphis,0,5,5
+2825,2014,June,District of Columbia,Washington,0,4,4
+2826,2014,June,Maryland,Seat Pleasant,0,4,4
+2827,2014,June,Indiana,Kokomo,0,4,4
+2828,2014,June,Illinois,Park Forest,0,4,4
+2829,2014,June,California,Los Angeles,3,1,4
+2830,2014,June,New Jersey,Paterson,0,6,6
+2831,2014,June,Florida,Fort Myers,5,0,5
+2832,2014,June,Alabama,Opp,1,4,5
+2833,2014,June,South Carolina,Moncks Corner,1,5,6
+2834,2014,June,Michigan,Oak Park,1,3,4
+2835,2014,June,Illinois,Chicago,1,3,4
+2836,2014,June,Georgia,Atlanta,1,4,5
+2837,2014,June,Illinois,Chicago,0,7,7
+2838,2014,June,Illinois,Chicago,1,5,6
+2839,2014,June,California,Sacramento,0,4,4
+2840,2014,May,California,San Bernardino,1,3,4
+2841,2014,May,Ohio,Toledo,1,3,4
+2842,2014,May,Michigan,Detroit,0,4,4
+2843,2014,May,South Carolina,Myrtle Beach,3,1,4
+2844,2014,May,Louisiana,New Orleans,1,7,8
+2845,2014,May,California,Goleta,4,7,11
+2846,2014,May,California,Bellflower,2,2,4
+2847,2014,May,Texas,Dallas,1,3,4
+2848,2014,May,Ohio,Sandusky,0,7,7
+2849,2014,May,California,Coachella,1,3,4
+2850,2014,May,District of Columbia,Washington,0,5,5
+2851,2014,May,Georgia,Atlanta,0,5,5
+2852,2014,May,Illinois,Chicago,0,4,4
+2853,2014,May,Tennessee,Memphis,0,7,7
+2854,2014,May,California,Sacramento,1,6,7
+2855,2014,May,Georgia,Stone Mountain,1,3,4
+2856,2014,May,Georgia,Decatur,2,3,5
+2857,2014,May,Illinois,Chicago,1,3,4
+2858,2014,May,Colorado,Wheat Ridge,0,4,4
+2859,2014,May,Arkansas,Jonesboro,4,4,8
+2860,2014,April,Illinois,Chicago,0,4,4
+2861,2014,April,Georgia,Kennesaw,1,6,7
+2862,2014,April,New York,Troy,0,5,5
+2863,2014,April,Tennessee,Memphis,2,3,5
+2864,2014,April,California,Los Angeles,1,3,4
+2865,2014,April,Illinois,Montgomery,0,6,6
+2866,2014,April,Florida,Tampa,2,2,4
+2867,2014,April,Illinois,Chicago,0,5,5
+2868,2014,April,District of Columbia,Washington,0,4,4
+2869,2014,April,Louisiana,New Orleans,1,3,4
+2870,2014,April,Indiana,Richmond,0,4,4
+2871,2014,April,Illinois,Rockford,0,5,5
+2872,2014,April,Tennessee,Lookout Valley,3,1,4
+2873,2014,April,Louisiana,New Orleans,0,4,4
+2874,2014,April,Massachusetts,Springfield,0,4,4
+2875,2014,April,Oklahoma,Oklahoma City,0,4,4
+2876,2014,April,Illinois,Chicago,1,5,6
+2877,2014,April,Arizona,Phoenix,1,3,4
+2878,2014,April,California,Fairfield,0,4,4
+2879,2014,April,Texas,Fort Hood,4,16,20
+2880,2014,March,North Carolina,Charlotte,0,5,5
+2881,2014,March,Mississippi,Starkville,0,5,5
+2882,2014,March,Texas,Arlington,1,3,4
+2883,2014,March,California,San Francisco,0,7,7
+2884,2014,March,California,Long Beach,1,3,4
+2885,2014,March,South Carolina,North Charleston,0,4,4
+2886,2014,March,Texas,Beaumont,3,1,4
+2887,2014,March,Georgia,Waynesboro,0,4,4
+2888,2014,March,New York,Brooklyn,0,4,4
+2889,2014,March,Ohio,Fremont,3,1,4
+2890,2014,March,Texas,Austin,0,6,6
+2891,2014,March,California,Richmond,1,3,4
+2892,2014,March,Illinois,Chicago,0,6,6
+2893,2014,March,South Carolina,Pelzer,3,1,4
+2894,2014,March,Pennsylvania,Pittsburgh,1,4,5
+2895,2014,March,Michigan,Detroit,0,4,4
+2896,2014,February,Virginia,Glade Spring,4,1,5
+2897,2014,February,California,Wilmington,0,4,4
+2898,2014,February,Indiana,Indianapolis,4,0,4
+2899,2014,February,California,Alturas,4,2,6
+2900,2014,February,Florida,Orlando (Pine Hills),1,6,7
+2901,2014,February,Texas,Dallas,1,7,8
+2902,2014,February,Indiana,Fort Wayne,0,5,5
+2903,2014,February,Texas,Fort Worth,1,4,5
+2904,2014,February,Florida,Jacksonville,1,4,5
+2905,2014,February,Nevada,Las Vegas,0,5,5
+2906,2014,February,Indiana,Gary,0,5,5
+2907,2014,February,California,Stockton,1,3,4
+2908,2014,February,California,Oakland,1,3,4
+2909,2014,February,Florida,Miami,0,5,5
+2910,2014,February,Louisiana,New Orleans,0,4,4
+2911,2014,February,Illinois,Chicago,1,3,4
+2912,2014,February,Indiana,Franklin,3,2,5
+2913,2014,January,North Carolina,Rocky Mount,0,4,4
+2914,2014,January,Washington,Seattle,1,4,5
+2915,2014,January,Illinois,Chicago,1,4,5
+2916,2014,January,Florida,Belle Glade,0,4,4
+2917,2014,January,New Jersey,Newark,2,3,5
+2918,2014,January,Virginia,Manassas,0,4,4
+2919,2014,January,Oklahoma,Ardmore,2,4,6
+2920,2014,January,Utah,Spanish Fork,5,0,5
+2921,2014,January,California,Los Angeles,0,4,4
+2922,2014,January,Michigan,Detroit,0,4,4
+2923,2014,January,Illinois,Elgin,0,5,5
+2924,2014,January,Louisiana,Tallulah,0,6,6
+2925,2014,January,Alabama,Huntsville,0,5,5
+2926,2014,January,Mississippi,Jackson,0,4,4
+2927,2014,January,Pennsylvania,Erie,1,3,4
+2928,2014,January,New York,Queens,1,3,4
+2929,2014,January,Virginia,Norfolk,2,2,4
