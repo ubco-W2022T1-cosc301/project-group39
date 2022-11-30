@@ -34,11 +34,31 @@ An alternative view of the above graph would be:
 
 
 
-Overall, through looking at our EDA's, we found that a lot of our preconceived notions about gun violence were validated by the data presented. There were also some cases where out data showed us that the situation with gun violence in the United States was much worse than we originally thought. Edit to save thing
+Overall, through looking at our EDA's, we found that a lot of our preconceived notions about gun violence were validated by the data presented. There were also some cases where out data showed us that the situation with gun violence in the United States was much worse than we originally thought.
 
 ---
 
 ## Question 1 + Results (Rhys' Section)
+### How many of the shootings in our data can be considered mass shootings and has the number of shootings been increasing in recent years?
+The accepted definition of a mass shooting is defined as: "four or more people injured or killed per incident of gun violence." With that in mind, I have been looking at the frequency of injured or killed per incident analyzed. 
+####
+![Injured Frequency](../project-group39/images/injured_frequency_rhys.png)
+####
+In the above image, we can see that on average about 4 people were injured per incident. With some incidents even having greater than 15 or 20 people injured. 
+####
+![Killed Frequency](../project-group39/images/killed_frequency_rhys.png)
+####
+In the above plot, it appears that on average a little over 1 person was killed per incident recorded. With some rare but extreme cases where around 20 people were killed.
+
+A majority of the shootings that have occurred in the past 7 years across the United States can be considered mass shootings. After analyzing our data, I can say that on average 4.97 people are either killed or injured per incident recorded which is greater than the required 4 killed or injured to meet the definition. This is quite conerning as I intitially thought mass shootings were relatively rare and did not make up a majority of the shootings over the past 7 years in the United States.
+####
+![Shootings by Year](../project-group39/images/per_year.png)
+####
+
+In the above image, we can see that the number of shootings has steadily risen over the 7 year period our data analyzed. 2020 appears to be by far the worst year which over 600 incidents alone. Even if we ignore the year 2020, the bar graph stills shows an upward trend in the number of shooting incidents between 2014 and 2020.
+####
+
+
 
 ---
 
