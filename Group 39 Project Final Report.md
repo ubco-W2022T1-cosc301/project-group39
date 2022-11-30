@@ -8,14 +8,30 @@ As many of us are aware, there are many problems in the United States that are c
 ## Explorator Data Analysis (EDA)
 One of the things that was immediately made apparent was how severe mass shootings in the United States have been. One of the first things that was made apparent was just the sheer number of shootings that took place between 2014 and 2021. Just by looking at the number of cases, one of the first things that we can see is that there have been 2930 cases of gun violence that fall under the earlier definition of mass shootings. This number alone is already something that most people would be shocked at hearing, but this only gets more shocking when it is made apparent that the number of cases, 2930, is larger than the number of days in 8 years (also noting the fact that in the data set, the year 2021 only had data for about half of the year). That is an average of over one shooting every day over the span of 8 years. 
 
--add screenshot to show number of rows in the dataset
+![Image showing the number of rows in the data set](images/NumberOfRows.png)
 
 Another thing that our EDA made clear was the distribution of mass shootings in each of the states, with Illinois and California being the two most dangerous states, and Wyoming and Vermont being the two safest.
 
--add photo of geographical map from luke, and bar graph to show actual distribution
+![Image showing number of shootings per state](images/NumberPerStateBar.png)
 
 One final thing that was made clear, building off the last point made, is the distribution of people killed is each state, as well as the distribution of people injured in each state. The former point was looking at mass shootings as a whole, where as in this section we are going to break down these shootings and look at how lethal each case was.
 
--nolan add photos of boxen plots from eda
+### Number of Deaths by State
+
+![Number of deaths heatmap](images/NumberOfDeathsHeatmap.png)
+
+An alternative view of the above graph would be:
+
+![Number of deaths boxen plot](images/NumberKilledBoxen.png)
+
+### Number of Injuries by State
+
+![Number of injuries heatmap](images/NumberOfInjuredHeatmap.png)
+
+An alternative view of the above graph would be:
+
+![Number of Injuries boxen plot](images/NumberInjuredBoxen.png)
+
+
 
 Overall, through looking at our EDA's, we found that a lot of our preconceived notions about gun violence were validated by the data presented. There were also some cases where out data showed us that the situation with gun violence in the United States was much worse than we originally thought. Edit to save thing
