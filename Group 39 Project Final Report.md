@@ -35,3 +35,19 @@ An alternative view of the above graph would be:
 
 
 Overall, through looking at our EDA's, we found that a lot of our preconceived notions about gun violence were validated by the data presented. There were also some cases where out data showed us that the situation with gun violence in the United States was much worse than we originally thought. Edit to save thing
+
+---
+
+## Question 1 + Results (Rhys' Section)
+
+---
+
+## Question 2 + Results (Nolan's Section)
+
+---
+
+## Question 3 + Results (Luke's Section)
+
+---
+
+## Conclusion
