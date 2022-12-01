@@ -39,7 +39,7 @@ Overall, through looking at our EDA's, we found that a lot of our preconceived n
 ---
 
 ## Question 1 + Results (Rhys' Section)
-### How many of the shootings in our data can be considered mass shootings and has the number of shootings been increasing in recent years?
+### What percentage of shootings can be considered mass shootings and has the number of shootings been increasing in recent years?
 The accepted definition of a mass shooting is defined as: "four or more people injured or killed per incident of gun violence." With that in mind, I have been looking at the frequency of injured or killed per incident analyzed. 
 ####
 ![Injured Frequency](../project-group39/images/injured_frequency_rhys.png)
@@ -55,7 +55,7 @@ A majority of the shootings that have occurred in the past 7 years across the Un
 ![Shootings by Year](../project-group39/images/per_year.png)
 ####
 
-In the above image, we can see that the number of shootings has steadily risen over the 7 year period our data analyzed. 2020 appears to be by far the worst year which over 600 incidents alone. Even if we ignore the year 2020, the bar graph stills shows an upward trend in the number of shooting incidents between 2014 and 2020.
+In the above image, we can see that the number of shootings has steadily risen over the 7 year period our data analyzed. 2020 appears to be by far the worst year which over 600 incidents alone, which is a very high number even considering the ongoing pandemic. Even if we ignore the year 2020, the bar graph stills shows an upward trend in the number of shooting incidents between 2014 and 2019. Which makes us question whether we should be more concerned about gun violence in our everyday lives and what can be done to help the situation and bring down the number of shootings.
 ####
 
 
