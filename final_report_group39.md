@@ -103,25 +103,25 @@ For more information, [click the link here to take a more thorough look at my an
 
 To answer this question we will be looking at the total sum of deaths in each state from 2019. 
 ####
-![Killed Sum](../project-group39/images/KilledByStateBarplot.png)
+![Killed Sum](images/KilledByStateBarplot.png)
 ####
 As seen in the above visual we have Texas, California, Florida, and Illinois. These states and their neighbours will be the focus of this question which works well since all are separated from each other and we have some border states and some inland states to look at. 
 
 Now while a simple bar graph can show the actual numbers really well, for someone without previous knowledge about the map of the United States it's hard to see the affect to neighbouring states. So for the next visual we have a map of each states to show the total number of gun related deaths in each state.
 ####
-![Killed Map](../project-group39/images/NumberOfDeathsHeatmap.png)
+![Killed Map](images/NumberOfDeathsHeatmap.png)
 ####
 Now that you can see the how the states neighbour each other, it's easier to see which states have the most and least number of deaths. So now we can look at the neighbouring states of the four states (Texas, California, Florida, Illinois). We can see that the total sum of deaths in each state slowly decreases as we move away from these states, with the lowest states being in the far northeast and the mid northwest. Now focusing on the nearest neighbours, we can see that these states like Georgia, Nevada, and Louisiana are some of the next highest in deaths. 
 
 One important factor to consider when looking at the violent states, is the population of the state, since states with a high population have more chances of incidents than states with smaller populations. So to balance this we can compare the total number of violence to the total population of the state. 
 ####
-![Killed Map Population](../project-group39/images/NumberOfDeathsPopulationHeatmap.png)
+![Killed Map Population](images/NumberOfDeathsPopulationHeatmap.png)
 ####
 Now looking at the map when we take the total number of deaths per person in each state you can see that some of the highest states include Nevada, Louisiana, Missouri, and new Mexico. All of which are neighbouring states to the four violent states listed before. 
 
 So since the neighbouring states have a higher number of gun related deaths per person compared to their main neighbour. It appears that they are affected by their neighbour of the four most violent states. So the states with the total most gun related deaths in the USA do appear not be limited to their border and their violence is spreading to their neighbours, resulting in a higher percentage of deaths in these neighbouring states. 
 
-You can [find the full analysis notebook here, including the code and the data.](../project-group39/notebooks/analysis3.ipynb)
+You can [find the full analysis notebook here, including the code and the data.](notebooks/analysis3.ipynb)
 
 
 ---
