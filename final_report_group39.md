@@ -99,10 +99,33 @@ For more information, [click the link here to take a more thorough look at my an
 ---
 
 ## Question 3 + Results (Luke's Section)
+### What states have the highest number of gun related violence and are their neighbouring states possibly affected by the high number of violence.
+
+To answer this question we will be looking at the total sum of deaths in each state from 2019. 
+####
+![Killed Sum](../project-group39/images/KilledByStateBarplot.png)
+####
+As seen in the above visual we have Texas, California, Florida, and Illinois. These states and their neighbours will be the focus of this question which works well since all are separated from each other and we have some border states and some inland states to look at. 
+
+Now while a simple bar graph can show the actual numbers really well, for someone without previous knowledge about the map of the United States it's hard to see the affect to neighbouring states. So for the next visual we have a map of each states to show the total number of gun related deaths in each state.
+####
+![Killed Map](../project-group39/images/NumberOfDeathsHeatmap.png)
+####
+Now that you can see the how the states neighbour each other, it's easier to see which states have the most and least number of deaths. So now we can look at the neighbouring states of the four states (Texas, California, Florida, Illinois). We can see that the total sum of deaths in each state slowly decreases as we move away from these states, with the lowest states being in the far northeast and the mid northwest. Now focusing on the nearest neighbours, we can see that these states like Georgia, Nevada, and Louisiana are some of the next highest in deaths. 
+
+One important factor to consider when looking at the violent states, is the population of the state, since states with a high population have more chances of incidents than states with smaller populations. So to balance this we can compare the total number of violence to the total population of the state. 
+####
+![Killed Map Population](../project-group39/images/NumberOfDeathsPopulationHeatmap.png)
+####
+Now looking at the map when we take the total number of deaths per person in each state you can see that some of the highest states include Nevada, Louisiana, Missouri, and new Mexico. All of which are neighbouring states to the four violent states listed before. 
+
+So since the neighbouring states have a higher number of gun related deaths per person compared to their main neighbour. It appears that they are affected by their neighbour of the four most violent states. So the states with the total most gun related deaths in the USA do appear not be limited to their border and their violence is spreading to their neighbours, resulting in a higher percentage of deaths in these neighbouring states. 
+
+You can [find the full analysis notebook here, including the code and the data.](../project-group39/notebooks/analysis3.ipynb)
+
 
 ---
 
 ## Conclusion
 
-After cleaning and analyzing the American gun violence data from 2014-2020, it gave way to many horrifying statistics that none of us knew before starting this project. The gun violence situation in the U.S. has grown considerably worse over the 7 year period and we have the data and graphs to prove it. While the term “mass shooting” gets thrown around after each tragic event, the reality of it is that over 50% of the shootings in the U.S can be considered mass shootings by definition. This was an eye opening statistic as previously to this we mainly thought a mass shooting was a relatively rare occurrence. After filtering and analyzing the data separated by states and months in a year, we were able to see that there is a visible curve to the data showing that mass shootings tend to happen in the warmer months of the year. It is also worth noting that the states which stay warmer year round follow this curve less than the states which have a greater variety in weather. 
-</br>After working with this gun violence data for the last couple months, we all learned many important statistics about gun violence and how frequent shootings really are in the U.S. We were all shocked by many of the statistics we found and now realize how bad the gun violence situation really is. With at least 1 shooting incident occurring each day and many of these having an average of 1 person killed and 4 people injured, we find these “one in a thousand” incidents are not as rare as we initially thought. Each of our separate analysis led all of us to a very similar conclusion, that the gun violence situation in the U.S is really as bad as it seems if not worse than we could have possibly imagined.
+After cleaning and analyzing the American gun violence data from 2014-2020, it gave way to many horrifying statistics that none of us knew before starting this project. The gun violence situation in the U.S. has grown considerably worse over the 7 year period and we have the data and graphs to prove it. While the term “mass shooting” gets thrown around after each tragic event, the reality of it is that over 50% of the shootings in the U.S can be considered mass shootings by definition. This was an eye opening statistic as previously to this we mainly thought a mass shooting was a relatively rare occurrence. After filtering and analyzing the data separated by states and months in a year, we were able to see that there is a visible curve to the data showing that mass shootings tend to happen in the warmer months of the year. It is also worth noting that the states which stay warmer year round follow this curve less than the states which have a greater variety in weather. We also found a relation between the number of gun related deaths in neighbouring state. By looking at the total in each state and comparing that to the population it was found that the states with the higher percentage of deaths to people were neighbouring the states that had the highest total number of gun related deaths. So it is appears that these gun related incidents are completely contained by border and are seeping into neighbouring states. After working with this gun violence data for the last couple months, we all learned many important statistics about gun violence and how frequent shootings really are in the U.S. We were all shocked by many of the statistics we found and now realize how bad the gun violence situation really is. With at least 1 shooting incident occurring each day and many of these having an average of 1 person killed and 4 people injured, we find these “one in a thousand” incidents are not as rare as we initially thought. Each of our separate analysis led all of us to a very similar conclusion, that the gun violence situation in the U.S is really as bad as it seems if not worse than we could have possibly imagined.
