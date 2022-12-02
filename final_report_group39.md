@@ -56,6 +56,9 @@ A majority of the shootings that have occurred in the past 7 years across the Un
 ####
 
 In the above image, we can see that the number of shootings has steadily risen over the 7 year period our data analyzed. 2020 appears to be by far the worst year which over 600 incidents alone, which is a very high number even considering the ongoing pandemic. Even if we ignore the year 2020, the bar graph stills shows an upward trend in the number of shooting incidents between 2014 and 2019. Which makes us question whether we should be more concerned about gun violence in our everyday lives and what can be done to help the situation and bring down the number of shootings.
+
+For more information, [click the link here to take a more thorough look at my analysis notebook](notebooks/analysis1.ipynb)
+
 ####
 
 
@@ -63,6 +66,35 @@ In the above image, we can see that the number of shootings has steadily risen o
 ---
 
 ## Question 2 + Results (Nolan's Section)
+### How does the time that shootings take place affect how many shootings there are? And if so, what outside factor could possibly influence these results regarding the shootings?
+
+In regards to my research question, one of the first things that I began to take a look at was the time of year that these shootings take place. Specifically, I wanted to see if there was some sort of trend regarding the number of shootings and what the current month of the year. With this, I also began to ask the further question if the weather during these months may or may not have played a factor in the number of shootings that have occured
+
+![Correlation between Months and Number of Shooting in the United States](images/NumberOfShootingsUS.png)
+
+As we can see in the graph above, there is a trend that is made very apparent and is noticed within the first couple seconds of looking at the graph. This trend shows that from 2014 to 2020, there is a significantly higher number of shootings take place during what would be the warmer/summer months of the year. From a logical standpoint (albeit, a very morbid one), this trend in data does make some sense. The warmer weather means it is far more likely that there are going to be people out and about in public, leading to a far higher chance that a mass shooting may occur. 
+
+While this point in itself is worthwhile, I began to look at this and feel somewhat conflicted. Not every state is going to share the same range of weather and seasons. For example, the climate in Texas is very different from the climate in New York, with Texas being warmer year round and New York having a much colder winter. As a result, this left me questioning the validity of the graph above. For the United States as a whole, the above graph does a good job and showing the distribution of shootings for each month, it does not give you the entire picture. As such, did a deeper dive into individual states to see whether the earlier hypothesis of 'more shootings happen during the warmer/summer months' is still true. 
+
+![Correlations between Months and Number of Shootings in Texas](images/NumberOfShootingTexas.png)
+
+In the above, the number of shootings each month has been broken up just for the State of Texas. As we can see, the number of shootings does appear to somewhat follow the same trend as before. However, there is much more variability in all the bars on the graph. From this we can infer that in a warmer state, there is going to be higher numbers of shootings during what would typically be the colder months of the year. However, just this one graph may be not be substantial enough, so we can continue to look at other warmer states, like Arizona.
+
+![Correlation between Months and Number of Shootings in Arizona](images/NumberOfShootingsArizona.png)
+
+In the graph for Arizona, we see that the earlier hypothesis is almost completely untrue. This is due to the highest number of shooting occuring in months that would typically be seen as colder months. As a result, we can now make a firm conclusion that while yes, some of these warmer states may still follow the trend of  summer months having more shootings, overall there is much more variability, with there being some times where the state breaks away from the trend completely. 
+
+However, what about states that get colder during the winter?
+
+![Correlation between Months and Number of Shootings in New York](images/NumberOfShootingsNewYork.png)
+
+![Correlations between Months and Number of Shootings in Minnesota](images/NumberOfShootingsMinnesota.png)
+
+In the above two graphs, we can see that, the trend of more shootings during the summer months rings much more true. Even from just taking a glance at the graph for New York, it is made very clear that there are higher levels of gun violence in the months of June, July, and August. The same can be said for Minnesota where June has many more shootings than most of the other months of the year. From this, we can make the assumption that states that are going to get colder in the winter are going to more closely follow the trend the the entirety of the United States follows. 
+
+After looking at both warmer and colder states, we can begin to make more reasonable assumptions for the United States as a whole. With this, we can determine that overall, the trend that United States follows is a trend that fits the data, with this trend showing that there is a tendency for mass shootings to occur more frequently during warmer months. It is still important to note the trend of each state individually, with warmer states having a trend with much more variability, while colder states tend to follow the same curve as the United States. 
+
+For more information, [click the link here to take a more thorough look at my analysis notebook](notebooks/analysis2.ipynb)
 
 ---
 
